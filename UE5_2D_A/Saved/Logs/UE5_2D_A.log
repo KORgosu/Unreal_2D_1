@@ -12356,3 +12356,1035 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.04.02-13.07.09:609][509]LogFileHelpers: Saving map 'MainMap' took 0.035
 [2024.04.02-13.07.09:626][509]AssetCheck: New page: 에셋 저장:  MainMap
 [2024.04.02-13.07.09:626][509]LogContentValidation: Display: World /Game/Maps/MainMap.MainMap 유효성 검사 중
+[2024.04.02-13.54.16:996][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset" SILENT=true
+[2024.04.02-13.54.17:020][350]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Knight
+[2024.04.02-13.54.17:021][350]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Knight98F61FAF4BA7E89F402027A5D78A1BBF.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset'
+[2024.04.02-13.54.17:033][350]AssetCheck: New page: 에셋 저장:  BP_Knight
+[2024.04.02-13.54.17:033][350]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Knight.BP_Knight 유효성 검사 중
+[2024.04.02-13.55.54:811][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/down-attack/down_attack_01.png)
+[2024.04.02-13.55.54:824][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/down-attack/down_attack_01.down_attack_01(BGRA8, 31X31 X1X1)(필요 메모리 예상: 0.01833MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:824][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/down-attack/down_attack_02.png)
+[2024.04.02-13.55.54:830][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/down-attack/down_attack_02.down_attack_02(BGRA8, 34X32 X1X1)(필요 메모리 예상: 0.020752MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:831][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/down-attack/down_attack_03.png)
+[2024.04.02-13.55.54:837][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/down-attack/down_attack_03.down_attack_03(BGRA8, 34X32 X1X1)(필요 메모리 예상: 0.020752MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:837][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/down-attack/down_attack_04.png)
+[2024.04.02-13.55.54:843][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/down-attack/down_attack_04.down_attack_04(BGRA8, 35X34 X1X1)(필요 메모리 예상: 0.022697MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:843][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/down-attack/down_attack_05.png)
+[2024.04.02-13.55.54:849][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/down-attack/down_attack_05.down_attack_05(BGRA8, 35X34 X1X1)(필요 메모리 예상: 0.022697MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:849][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/down-attack/down_attack_06.png)
+[2024.04.02-13.55.54:854][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/down-attack/down_attack_06.down_attack_06(BGRA8, 31X32 X1X1)(필요 메모리 예상: 0.018921MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:854][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/down-idle/down_idle_01.png)
+[2024.04.02-13.55.54:858][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/down-idle/down_idle_01.down_idle_01(TFO_AutoDXT, 28X32 X1X1)(필요 메모리 예상: 0.01709MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:858][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/down-move/down_move_01.png)
+[2024.04.02-13.55.54:864][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/down-move/down_move_01.down_move_01(TFO_AutoDXT, 28X32 X1X1)(필요 메모리 예상: 0.01709MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:864][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/down-move/down_move_02.png)
+[2024.04.02-13.55.54:870][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/down-move/down_move_02.down_move_02(BGRA8, 28X31 X1X1)(필요 메모리 예상: 0.016556MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:870][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/down-move/down_move_03.png)
+[2024.04.02-13.55.54:875][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/down-move/down_move_03.down_move_03(TFO_AutoDXT, 28X32 X1X1)(필요 메모리 예상: 0.01709MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:875][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/down-move/down_move_04.png)
+[2024.04.02-13.55.54:881][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/down-move/down_move_04.down_move_04(BGRA8, 27X31 X1X1)(필요 메모리 예상: 0.015965MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:881][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/side-attack/side_attack_01.png)
+[2024.04.02-13.55.54:886][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/side-attack/side_attack_01.side_attack_01(TFO_AutoDXT, 28X32 X1X1)(필요 메모리 예상: 0.01709MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:886][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/side-attack/side_attack_02.png)
+[2024.04.02-13.55.54:892][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/side-attack/side_attack_02.side_attack_02(TFO_AutoDXT, 32X32 X1X1)(필요 메모리 예상: 0.019531MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:892][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/side-attack/side_attack_03.png)
+[2024.04.02-13.55.54:898][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/side-attack/side_attack_03.side_attack_03(BGRA8, 27X32 X1X1)(필요 메모리 예상: 0.016479MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:898][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/side-attack/side_attack_04.png)
+[2024.04.02-13.55.54:904][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/side-attack/side_attack_04.side_attack_04(BGRA8, 34X32 X1X1)(필요 메모리 예상: 0.020752MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:904][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/side-attack/side_attack_05.png)
+[2024.04.02-13.55.54:909][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/side-attack/side_attack_05.side_attack_05(BGRA8, 35X31 X1X1)(필요 메모리 예상: 0.020695MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:909][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/side-attack/side_attack_06.png)
+[2024.04.02-13.55.54:915][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/side-attack/side_attack_06.side_attack_06(BGRA8, 31X30 X1X1)(필요 메모리 예상: 0.017738MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:915][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/side-idle/side_idle_01.png)
+[2024.04.02-13.55.54:918][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/side-idle/side_idle_01.side_idle_01(BGRA8, 22X32 X1X1)(필요 메모리 예상: 0.013428MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:919][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/side-move/side_move_01.png)
+[2024.04.02-13.55.54:924][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/side-move/side_move_01.side_move_01(BGRA8, 22X32 X1X1)(필요 메모리 예상: 0.013428MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:924][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/side-move/side_move_02.png)
+[2024.04.02-13.55.54:929][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/side-move/side_move_02.side_move_02(BGRA8, 20X31 X1X1)(필요 메모리 예상: 0.011826MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:929][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/side-move/side_move_03.png)
+[2024.04.02-13.55.54:935][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/side-move/side_move_03.side_move_03(TFO_AutoDXT, 20X32 X1X1)(필요 메모리 예상: 0.012207MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:935][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/side-move/side_move_04.png)
+[2024.04.02-13.55.54:940][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/side-move/side_move_04.side_move_04(BGRA8, 24X31 X1X1)(필요 메모리 예상: 0.014191MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:940][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/up-attack/up_attack_01.png)
+[2024.04.02-13.55.54:946][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/up-attack/up_attack_01.up_attack_01(BGRA8, 30X32 X1X1)(필요 메모리 예상: 0.018311MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:946][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/up-attack/up_attack_02.png)
+[2024.04.02-13.55.54:951][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/up-attack/up_attack_02.up_attack_02(BGRA8, 31X30 X1X1)(필요 메모리 예상: 0.017738MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:951][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/up-attack/up_attack_03.png)
+[2024.04.02-13.55.54:957][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/up-attack/up_attack_03.up_attack_03(BGRA8, 33X34 X1X1)(필요 메모리 예상: 0.0214MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:957][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/up-attack/up_attack_04.png)
+[2024.04.02-13.55.54:963][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/up-attack/up_attack_04.up_attack_04(BGRA8, 30X37 X1X1)(필요 메모리 예상: 0.021172MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:963][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/up-attack/up_attack_05.png)
+[2024.04.02-13.55.54:969][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/up-attack/up_attack_05.up_attack_05(BGRA8, 27X37 X1X1)(필요 메모리 예상: 0.019054MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:969][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/up-attack/up_attack_06.png)
+[2024.04.02-13.55.54:974][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/up-attack/up_attack_06.up_attack_06(BGRA8, 27X32 X1X1)(필요 메모리 예상: 0.016479MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:974][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/up-idle/up_idle_01.png)
+[2024.04.02-13.55.54:978][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/up-idle/up_idle_01.up_idle_01(TFO_AutoDXT, 28X32 X1X1)(필요 메모리 예상: 0.01709MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:978][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/up-move/up_move_01.png)
+[2024.04.02-13.55.54:983][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/up-move/up_move_01.up_move_01(TFO_AutoDXT, 28X32 X1X1)(필요 메모리 예상: 0.01709MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:983][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/up-move/up_move_02.png)
+[2024.04.02-13.55.54:989][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/up-move/up_move_02.up_move_02(BGRA8, 26X31 X1X1)(필요 메모리 예상: 0.015373MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:989][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/up-move/up_move_03.png)
+[2024.04.02-13.55.54:995][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/up-move/up_move_03.up_move_03(TFO_AutoDXT, 28X32 X1X1)(필요 메모리 예상: 0.01709MB), 인코딩 속도: Fast
+[2024.04.02-13.55.54:995][137]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\FOR\Desktop\에셋\13)+상속+구조+설계\Skeleton/up-move/up_move_04.png)
+[2024.04.02-13.55.55:067][137]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/up-move/up_move_04.up_move_04(BGRA8, 29X31 X1X1)(필요 메모리 예상: 0.017147MB), 인코딩 속도: Fast
+[2024.04.02-13.56.04:250][619]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''ContentBrowser.ListViewFolderIcon.Base' 브러시를 찾을 수 없습니다.'
+[2024.04.02-13.56.04:250][619]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''ContentBrowser.ListViewFolderIcon.Mask' 브러시를 찾을 수 없습니다.'
+[2024.04.02-13.56.32:398][487]LogSlateStyle: Warning: 'Window.Buttons.Close' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FButtonStyle 디폴트를 사용합니다.
+[2024.04.02-13.56.32:398][487]LogSlateStyle: Warning: 'Window.Buttons.Close' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FButtonStyle 디폴트를 사용합니다.
+[2024.04.02-13.56.36:182][756]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/down-idle/down_idle_01.down_idle_01(BGRA8, 28X32 X1X1)(필요 메모리 예상: 0.01709MB), 인코딩 속도: Fast
+[2024.04.02-13.56.36:183][756]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/down-move/down_move_01.down_move_01(BGRA8, 28X32 X1X1)(필요 메모리 예상: 0.01709MB), 인코딩 속도: Fast
+[2024.04.02-13.56.36:183][756]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/down-move/down_move_03.down_move_03(BGRA8, 28X32 X1X1)(필요 메모리 예상: 0.01709MB), 인코딩 속도: Fast
+[2024.04.02-13.56.36:184][756]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/side-attack/side_attack_01.side_attack_01(BGRA8, 28X32 X1X1)(필요 메모리 예상: 0.01709MB), 인코딩 속도: Fast
+[2024.04.02-13.56.36:184][756]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/side-attack/side_attack_02.side_attack_02(BGRA8, 32X32 X1X1)(필요 메모리 예상: 0.019531MB), 인코딩 속도: Fast
+[2024.04.02-13.56.36:186][756]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/side-move/side_move_03.side_move_03(BGRA8, 20X32 X1X1)(필요 메모리 예상: 0.012207MB), 인코딩 속도: Fast
+[2024.04.02-13.56.36:186][756]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/up-idle/up_idle_01.up_idle_01(BGRA8, 28X32 X1X1)(필요 메모리 예상: 0.01709MB), 인코딩 속도: Fast
+[2024.04.02-13.56.36:186][756]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/up-move/up_move_01.up_move_01(BGRA8, 28X32 X1X1)(필요 메모리 예상: 0.01709MB), 인코딩 속도: Fast
+[2024.04.02-13.56.36:209][757]LogTexture: Display: 텍스처 빌드 중: /Game/Sprite/Skeleton/up-move/up_move_03.up_move_03(BGRA8, 28X32 X1X1)(필요 메모리 예상: 0.01709MB), 인코딩 속도: Fast
+[2024.04.02-13.57.25:838][530]LogContentBrowser: Deferred new asset file creation: down_attack
+[2024.04.02-13.57.25:848][530]LogContentBrowser: Creating deferred item: down_attack
+[2024.04.02-13.57.25:863][531]LogContentBrowser: Renaming the item being created (Deferred Item: down_attack).
+[2024.04.02-13.57.27:976][766]LogContentBrowser: Attempting asset rename: down_attack -> down_attack
+[2024.04.02-13.57.27:977][766]LogContentBrowser: End creating deferred item down_attack
+[2024.04.02-13.57.31:166][112]LogContentBrowser: Deferred new asset file creation: down_idle
+[2024.04.02-13.57.31:177][112]LogContentBrowser: Creating deferred item: down_idle
+[2024.04.02-13.57.31:192][113]LogContentBrowser: Renaming the item being created (Deferred Item: down_idle).
+[2024.04.02-13.57.32:837][300]LogContentBrowser: Attempting asset rename: down_idle -> down_idle
+[2024.04.02-13.57.32:838][300]LogContentBrowser: End creating deferred item down_idle
+[2024.04.02-13.57.36:437][692]LogContentBrowser: Deferred new asset file creation: down_move
+[2024.04.02-13.57.36:449][692]LogContentBrowser: Creating deferred item: down_move
+[2024.04.02-13.57.36:463][693]LogContentBrowser: Renaming the item being created (Deferred Item: down_move).
+[2024.04.02-13.57.37:845][845]LogContentBrowser: Attempting asset rename: down_move -> down_move
+[2024.04.02-13.57.37:846][845]LogContentBrowser: End creating deferred item down_move
+[2024.04.02-13.57.40:871][161]LogContentBrowser: Deferred new asset file creation: side_attack
+[2024.04.02-13.57.40:885][161]LogContentBrowser: Creating deferred item: side_attack
+[2024.04.02-13.57.40:899][162]LogContentBrowser: Renaming the item being created (Deferred Item: side_attack).
+[2024.04.02-13.57.41:437][222]LogContentBrowser: Attempting asset rename: side_attack -> side_attack
+[2024.04.02-13.57.41:438][222]LogContentBrowser: End creating deferred item side_attack
+[2024.04.02-13.57.43:314][420]LogSlateStyle: Warning: 'Window.Buttons.Close' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FButtonStyle 디폴트를 사용합니다.
+[2024.04.02-13.57.43:314][420]LogSlateStyle: Warning: 'Window.Buttons.Close' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FButtonStyle 디폴트를 사용합니다.
+[2024.04.02-13.57.43:771][467]LogContentBrowser: Deferred new asset file creation: side_idle
+[2024.04.02-13.57.43:782][467]LogContentBrowser: Creating deferred item: side_idle
+[2024.04.02-13.57.43:795][468]LogContentBrowser: Renaming the item being created (Deferred Item: side_idle).
+[2024.04.02-13.57.44:606][554]LogContentBrowser: Attempting asset rename: side_idle -> side_idle
+[2024.04.02-13.57.44:607][554]LogContentBrowser: End creating deferred item side_idle
+[2024.04.02-13.57.53:313][384]LogSlateStyle: Warning: 'Window.Buttons.Close' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FButtonStyle 디폴트를 사용합니다.
+[2024.04.02-13.57.53:313][384]LogSlateStyle: Warning: 'Window.Buttons.Close' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FButtonStyle 디폴트를 사용합니다.
+[2024.04.02-13.57.53:710][425]LogContentBrowser: Deferred new asset file creation: side_move
+[2024.04.02-13.57.53:722][425]LogContentBrowser: Creating deferred item: side_move
+[2024.04.02-13.57.53:734][426]LogContentBrowser: Renaming the item being created (Deferred Item: side_move).
+[2024.04.02-13.57.54:924][559]LogContentBrowser: Attempting asset rename: side_move -> side_move
+[2024.04.02-13.57.54:925][559]LogContentBrowser: End creating deferred item side_move
+[2024.04.02-13.57.59:816][ 91]LogContentBrowser: Deferred new asset file creation: up_attack
+[2024.04.02-13.57.59:825][ 91]LogContentBrowser: Creating deferred item: up_attack
+[2024.04.02-13.57.59:838][ 92]LogContentBrowser: Renaming the item being created (Deferred Item: up_attack).
+[2024.04.02-13.58.00:952][215]LogContentBrowser: Attempting asset rename: up_attack -> up_attack
+[2024.04.02-13.58.00:953][215]LogContentBrowser: End creating deferred item up_attack
+[2024.04.02-13.58.03:033][438]LogContentBrowser: Deferred new asset file creation: up_idle
+[2024.04.02-13.58.03:043][438]LogContentBrowser: Creating deferred item: up_idle
+[2024.04.02-13.58.03:057][439]LogContentBrowser: Renaming the item being created (Deferred Item: up_idle).
+[2024.04.02-13.58.03:690][509]LogContentBrowser: Attempting asset rename: up_idle -> up_idle
+[2024.04.02-13.58.03:691][509]LogContentBrowser: End creating deferred item up_idle
+[2024.04.02-13.58.07:005][870]LogContentBrowser: Deferred new asset file creation: up_move
+[2024.04.02-13.58.07:019][870]LogContentBrowser: Creating deferred item: up_move
+[2024.04.02-13.58.07:035][871]LogContentBrowser: Renaming the item being created (Deferred Item: up_move).
+[2024.04.02-13.58.07:266][895]LogContentBrowser: Attempting asset rename: up_move -> up_move
+[2024.04.02-13.58.07:267][895]LogContentBrowser: End creating deferred item up_move
+[2024.04.02-13.58.46:807][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/down_attack" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down_attack.uasset" SILENT=true
+[2024.04.02-13.58.46:811][174]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down_attack
+[2024.04.02-13.58.46:811][174]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack44C5946F4B1387128B97128C9BE5F2A6.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down_attack.uasset'
+[2024.04.02-13.58.46:813][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/down_idle" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down_idle.uasset" SILENT=true
+[2024.04.02-13.58.46:814][174]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down_idle
+[2024.04.02-13.58.46:814][174]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_idle0A3EAEF347FA0243ABE1C2925DF76B8C.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down_idle.uasset'
+[2024.04.02-13.58.46:816][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/down_move" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down_move.uasset" SILENT=true
+[2024.04.02-13.58.46:817][174]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down_move
+[2024.04.02-13.58.46:817][174]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_move629AC0C345C9B93050F00088878FF945.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down_move.uasset'
+[2024.04.02-13.58.46:819][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/side_attack" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side_attack.uasset" SILENT=true
+[2024.04.02-13.58.46:820][174]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side_attack
+[2024.04.02-13.58.46:820][174]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attackA8B7185C4F5BDE8BA8E5F3B187B29F57.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side_attack.uasset'
+[2024.04.02-13.58.46:822][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/side_idle" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side_idle.uasset" SILENT=true
+[2024.04.02-13.58.46:823][174]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side_idle
+[2024.04.02-13.58.46:823][174]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_idle571EF9AC4CC539BDEF2BB09624AF75F3.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side_idle.uasset'
+[2024.04.02-13.58.46:825][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/side_move" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side_move.uasset" SILENT=true
+[2024.04.02-13.58.46:826][174]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side_move
+[2024.04.02-13.58.46:826][174]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_moveD9645E954D943439BDAD32A5ADD3E1A8.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side_move.uasset'
+[2024.04.02-13.58.46:828][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up_attack" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up_attack.uasset" SILENT=true
+[2024.04.02-13.58.46:829][174]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up_attack
+[2024.04.02-13.58.46:830][174]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attackDE93714947C403D498CE3E844DF0704D.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up_attack.uasset'
+[2024.04.02-13.58.46:831][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up_idle" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up_idle.uasset" SILENT=true
+[2024.04.02-13.58.46:832][174]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up_idle
+[2024.04.02-13.58.46:832][174]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_idle526469414575A60D588D13A654394281.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up_idle.uasset'
+[2024.04.02-13.58.46:834][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up_move" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up_move.uasset" SILENT=true
+[2024.04.02-13.58.46:835][174]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up_move
+[2024.04.02-13.58.46:835][174]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_moveE75542644DF7B2AFACD8689A65BE66B7.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up_move.uasset'
+[2024.04.02-13.58.46:929][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.02-13.58.46:952][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.02-13.58.46:969][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.02-13.58.46:982][174]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2024.04.02-13.58.46:982][174]LogContentValidation: Display: PaperFlipbook /Game/Sprite/Skeleton/down_attack.down_attack 유효성 검사 중
+[2024.04.02-13.58.46:982][174]LogContentValidation: Display: PaperFlipbook /Game/Sprite/Skeleton/down_idle.down_idle 유효성 검사 중
+[2024.04.02-13.58.46:982][174]LogContentValidation: Display: PaperFlipbook /Game/Sprite/Skeleton/down_move.down_move 유효성 검사 중
+[2024.04.02-13.58.46:983][174]LogContentValidation: Display: PaperFlipbook /Game/Sprite/Skeleton/side_attack.side_attack 유효성 검사 중
+[2024.04.02-13.58.46:983][174]LogContentValidation: Display: PaperFlipbook /Game/Sprite/Skeleton/side_idle.side_idle 유효성 검사 중
+[2024.04.02-13.58.46:983][174]LogContentValidation: Display: PaperFlipbook /Game/Sprite/Skeleton/side_move.side_move 유효성 검사 중
+[2024.04.02-13.58.46:983][174]LogContentValidation: Display: PaperFlipbook /Game/Sprite/Skeleton/up_attack.up_attack 유효성 검사 중
+[2024.04.02-13.58.46:983][174]LogContentValidation: Display: PaperFlipbook /Game/Sprite/Skeleton/up_idle.up_idle 유효성 검사 중
+[2024.04.02-13.58.46:983][174]LogContentValidation: Display: PaperFlipbook /Game/Sprite/Skeleton/up_move.up_move 유효성 검사 중
+[2024.04.02-13.59.33:240][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.02-13.59.33:243][111]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMap' took 0.023
+[2024.04.02-13.59.33:244][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/down-attack/down_attack_01] ([1] browsable assets)...
+[2024.04.02-13.59.33:245][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/down-attack/down_attack_01.down_attack_01]
+[2024.04.02-13.59.33:245][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/down-attack/down_attack_01]
+[2024.04.02-13.59.33:247][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/down-attack/down_attack_01_Auto5
+[2024.04.02-13.59.33:247][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack_01_Auto5491D3DD44F0EE9088545EE955BD2D410.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/down-attack/down_attack_01_Auto5.uasset'
+[2024.04.02-13.59.33:248][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/down-attack/down_attack_02] ([1] browsable assets)...
+[2024.04.02-13.59.33:249][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/down-attack/down_attack_02.down_attack_02]
+[2024.04.02-13.59.33:249][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/down-attack/down_attack_02]
+[2024.04.02-13.59.33:250][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/down-attack/down_attack_02_Auto5
+[2024.04.02-13.59.33:250][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack_02_Auto5C69D85B8467A739642F4A382CD507BEF.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/down-attack/down_attack_02_Auto5.uasset'
+[2024.04.02-13.59.33:251][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/down-attack/down_attack_03] ([1] browsable assets)...
+[2024.04.02-13.59.33:252][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/down-attack/down_attack_03.down_attack_03]
+[2024.04.02-13.59.33:252][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/down-attack/down_attack_03]
+[2024.04.02-13.59.33:253][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/down-attack/down_attack_03_Auto5
+[2024.04.02-13.59.33:253][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack_03_Auto514B1E47C4C8599604E1765A9F2951DD8.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/down-attack/down_attack_03_Auto5.uasset'
+[2024.04.02-13.59.33:254][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/down-attack/down_attack_04] ([1] browsable assets)...
+[2024.04.02-13.59.33:255][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/down-attack/down_attack_04.down_attack_04]
+[2024.04.02-13.59.33:255][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/down-attack/down_attack_04]
+[2024.04.02-13.59.33:256][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/down-attack/down_attack_04_Auto5
+[2024.04.02-13.59.33:256][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack_04_Auto5C691D8B3485DF2F073A5B097EF99CBEC.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/down-attack/down_attack_04_Auto5.uasset'
+[2024.04.02-13.59.33:257][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/down-attack/down_attack_05] ([1] browsable assets)...
+[2024.04.02-13.59.33:257][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/down-attack/down_attack_05.down_attack_05]
+[2024.04.02-13.59.33:257][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/down-attack/down_attack_05]
+[2024.04.02-13.59.33:259][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/down-attack/down_attack_05_Auto5
+[2024.04.02-13.59.33:259][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack_05_Auto5705D9B414C493F3EE28FC18EEF20D5AF.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/down-attack/down_attack_05_Auto5.uasset'
+[2024.04.02-13.59.33:260][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/down-attack/down_attack_06] ([1] browsable assets)...
+[2024.04.02-13.59.33:261][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/down-attack/down_attack_06.down_attack_06]
+[2024.04.02-13.59.33:261][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/down-attack/down_attack_06]
+[2024.04.02-13.59.33:262][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/down-attack/down_attack_06_Auto5
+[2024.04.02-13.59.33:262][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack_06_Auto515F15D2941983945F17DC091200FC849.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/down-attack/down_attack_06_Auto5.uasset'
+[2024.04.02-13.59.33:263][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/down-idle/down_idle_01] ([1] browsable assets)...
+[2024.04.02-13.59.33:263][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/down-idle/down_idle_01.down_idle_01]
+[2024.04.02-13.59.33:263][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/down-idle/down_idle_01]
+[2024.04.02-13.59.33:265][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/down-idle/down_idle_01_Auto5
+[2024.04.02-13.59.33:265][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_idle_01_Auto56BDA2BEC456F44E4F9355C92268522D9.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/down-idle/down_idle_01_Auto5.uasset'
+[2024.04.02-13.59.33:266][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/down-move/down_move_01] ([1] browsable assets)...
+[2024.04.02-13.59.33:266][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/down-move/down_move_01.down_move_01]
+[2024.04.02-13.59.33:266][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/down-move/down_move_01]
+[2024.04.02-13.59.33:268][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/down-move/down_move_01_Auto5
+[2024.04.02-13.59.33:268][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_move_01_Auto5DA081D8D47A15F57F9230D9CE8FC4B53.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/down-move/down_move_01_Auto5.uasset'
+[2024.04.02-13.59.33:269][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/down-move/down_move_02] ([1] browsable assets)...
+[2024.04.02-13.59.33:269][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/down-move/down_move_02.down_move_02]
+[2024.04.02-13.59.33:269][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/down-move/down_move_02]
+[2024.04.02-13.59.33:271][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/down-move/down_move_02_Auto5
+[2024.04.02-13.59.33:271][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_move_02_Auto5A07432EA4C38F6CE1DAFAFB8E72DB028.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/down-move/down_move_02_Auto5.uasset'
+[2024.04.02-13.59.33:272][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/down-move/down_move_03] ([1] browsable assets)...
+[2024.04.02-13.59.33:272][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/down-move/down_move_03.down_move_03]
+[2024.04.02-13.59.33:273][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/down-move/down_move_03]
+[2024.04.02-13.59.33:274][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/down-move/down_move_03_Auto5
+[2024.04.02-13.59.33:274][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_move_03_Auto52889AB514D9BDCCA4366D69DD467273F.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/down-move/down_move_03_Auto5.uasset'
+[2024.04.02-13.59.33:275][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/down-move/down_move_04] ([1] browsable assets)...
+[2024.04.02-13.59.33:275][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/down-move/down_move_04.down_move_04]
+[2024.04.02-13.59.33:275][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/down-move/down_move_04]
+[2024.04.02-13.59.33:277][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/down-move/down_move_04_Auto5
+[2024.04.02-13.59.33:277][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_move_04_Auto5E65ED2E340CF8826C156B5AA2B67DA39.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/down-move/down_move_04_Auto5.uasset'
+[2024.04.02-13.59.33:278][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/side-attack/side_attack_01] ([1] browsable assets)...
+[2024.04.02-13.59.33:278][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/side-attack/side_attack_01.side_attack_01]
+[2024.04.02-13.59.33:278][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/side-attack/side_attack_01]
+[2024.04.02-13.59.33:279][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/side-attack/side_attack_01_Auto5
+[2024.04.02-13.59.33:280][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attack_01_Auto5AEADA8B04039DD09D929FDAE52697684.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/side-attack/side_attack_01_Auto5.uasset'
+[2024.04.02-13.59.33:280][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/side-attack/side_attack_02] ([1] browsable assets)...
+[2024.04.02-13.59.33:281][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/side-attack/side_attack_02.side_attack_02]
+[2024.04.02-13.59.33:281][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/side-attack/side_attack_02]
+[2024.04.02-13.59.33:282][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/side-attack/side_attack_02_Auto5
+[2024.04.02-13.59.33:282][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attack_02_Auto56D754D214312C785BAA52FBC5348113B.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/side-attack/side_attack_02_Auto5.uasset'
+[2024.04.02-13.59.33:283][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/side-attack/side_attack_03] ([1] browsable assets)...
+[2024.04.02-13.59.33:284][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/side-attack/side_attack_03.side_attack_03]
+[2024.04.02-13.59.33:284][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/side-attack/side_attack_03]
+[2024.04.02-13.59.33:285][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/side-attack/side_attack_03_Auto5
+[2024.04.02-13.59.33:285][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attack_03_Auto591C26AE14F881A56BF18F2A547148B27.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/side-attack/side_attack_03_Auto5.uasset'
+[2024.04.02-13.59.33:286][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/side-attack/side_attack_04] ([1] browsable assets)...
+[2024.04.02-13.59.33:287][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/side-attack/side_attack_04.side_attack_04]
+[2024.04.02-13.59.33:287][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/side-attack/side_attack_04]
+[2024.04.02-13.59.33:288][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/side-attack/side_attack_04_Auto5
+[2024.04.02-13.59.33:288][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attack_04_Auto51F98BC2244DE615829E972BCC2E32744.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/side-attack/side_attack_04_Auto5.uasset'
+[2024.04.02-13.59.33:289][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/side-attack/side_attack_05] ([1] browsable assets)...
+[2024.04.02-13.59.33:289][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/side-attack/side_attack_05.side_attack_05]
+[2024.04.02-13.59.33:289][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/side-attack/side_attack_05]
+[2024.04.02-13.59.33:291][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/side-attack/side_attack_05_Auto5
+[2024.04.02-13.59.33:291][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attack_05_Auto5019F8E204FA720F1332ED59FD92ADAEC.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/side-attack/side_attack_05_Auto5.uasset'
+[2024.04.02-13.59.33:291][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/side-attack/side_attack_06] ([1] browsable assets)...
+[2024.04.02-13.59.33:292][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/side-attack/side_attack_06.side_attack_06]
+[2024.04.02-13.59.33:292][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/side-attack/side_attack_06]
+[2024.04.02-13.59.33:293][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/side-attack/side_attack_06_Auto5
+[2024.04.02-13.59.33:293][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attack_06_Auto54F8874824C752897B621ED87FAC6476E.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/side-attack/side_attack_06_Auto5.uasset'
+[2024.04.02-13.59.33:294][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/side-idle/side_idle_01] ([1] browsable assets)...
+[2024.04.02-13.59.33:295][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/side-idle/side_idle_01.side_idle_01]
+[2024.04.02-13.59.33:295][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/side-idle/side_idle_01]
+[2024.04.02-13.59.33:296][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/side-idle/side_idle_01_Auto5
+[2024.04.02-13.59.33:296][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_idle_01_Auto5C75CE54B40D7ED67BDA58582BCB51D5F.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/side-idle/side_idle_01_Auto5.uasset'
+[2024.04.02-13.59.33:297][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/side-move/side_move_01] ([1] browsable assets)...
+[2024.04.02-13.59.33:298][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/side-move/side_move_01.side_move_01]
+[2024.04.02-13.59.33:298][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/side-move/side_move_01]
+[2024.04.02-13.59.33:299][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/side-move/side_move_01_Auto5
+[2024.04.02-13.59.33:299][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_move_01_Auto5B18045DB44ECA3040982E497A7AF7E52.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/side-move/side_move_01_Auto5.uasset'
+[2024.04.02-13.59.33:300][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/side-move/side_move_02] ([1] browsable assets)...
+[2024.04.02-13.59.33:301][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/side-move/side_move_02.side_move_02]
+[2024.04.02-13.59.33:301][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/side-move/side_move_02]
+[2024.04.02-13.59.33:302][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/side-move/side_move_02_Auto5
+[2024.04.02-13.59.33:302][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_move_02_Auto5DB356E924F073B70B33F9B9B6F272660.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/side-move/side_move_02_Auto5.uasset'
+[2024.04.02-13.59.33:303][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/side-move/side_move_03] ([1] browsable assets)...
+[2024.04.02-13.59.33:304][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/side-move/side_move_03.side_move_03]
+[2024.04.02-13.59.33:304][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/side-move/side_move_03]
+[2024.04.02-13.59.33:305][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/side-move/side_move_03_Auto5
+[2024.04.02-13.59.33:305][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_move_03_Auto5F4DECFF242EB2345D25AD6A35371418E.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/side-move/side_move_03_Auto5.uasset'
+[2024.04.02-13.59.33:306][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/side-move/side_move_04] ([1] browsable assets)...
+[2024.04.02-13.59.33:307][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/side-move/side_move_04.side_move_04]
+[2024.04.02-13.59.33:307][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/side-move/side_move_04]
+[2024.04.02-13.59.33:308][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/side-move/side_move_04_Auto5
+[2024.04.02-13.59.33:308][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_move_04_Auto5E0F097534BD9921DF69CCA937B81204E.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/side-move/side_move_04_Auto5.uasset'
+[2024.04.02-13.59.33:309][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/up-attack/up_attack_01] ([1] browsable assets)...
+[2024.04.02-13.59.33:310][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/up-attack/up_attack_01.up_attack_01]
+[2024.04.02-13.59.33:310][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/up-attack/up_attack_01]
+[2024.04.02-13.59.33:312][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/up-attack/up_attack_01_Auto5
+[2024.04.02-13.59.33:312][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attack_01_Auto51259B77548B785854E087DB5CD2102A3.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/up-attack/up_attack_01_Auto5.uasset'
+[2024.04.02-13.59.33:312][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/up-attack/up_attack_02] ([1] browsable assets)...
+[2024.04.02-13.59.33:313][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/up-attack/up_attack_02.up_attack_02]
+[2024.04.02-13.59.33:313][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/up-attack/up_attack_02]
+[2024.04.02-13.59.33:314][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/up-attack/up_attack_02_Auto5
+[2024.04.02-13.59.33:314][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attack_02_Auto567C0B7834CCC2D258F2327850193EC2F.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/up-attack/up_attack_02_Auto5.uasset'
+[2024.04.02-13.59.33:315][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/up-attack/up_attack_03] ([1] browsable assets)...
+[2024.04.02-13.59.33:316][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/up-attack/up_attack_03.up_attack_03]
+[2024.04.02-13.59.33:316][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/up-attack/up_attack_03]
+[2024.04.02-13.59.33:317][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/up-attack/up_attack_03_Auto5
+[2024.04.02-13.59.33:317][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attack_03_Auto59535AAF446B8ED28511DCEA978E1CC68.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/up-attack/up_attack_03_Auto5.uasset'
+[2024.04.02-13.59.33:318][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/up-attack/up_attack_04] ([1] browsable assets)...
+[2024.04.02-13.59.33:318][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/up-attack/up_attack_04.up_attack_04]
+[2024.04.02-13.59.33:318][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/up-attack/up_attack_04]
+[2024.04.02-13.59.33:320][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/up-attack/up_attack_04_Auto5
+[2024.04.02-13.59.33:320][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attack_04_Auto54C62AF3E4AF396C11F8AFC90C222C88C.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/up-attack/up_attack_04_Auto5.uasset'
+[2024.04.02-13.59.33:321][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/up-attack/up_attack_05] ([1] browsable assets)...
+[2024.04.02-13.59.33:321][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/up-attack/up_attack_05.up_attack_05]
+[2024.04.02-13.59.33:321][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/up-attack/up_attack_05]
+[2024.04.02-13.59.33:323][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/up-attack/up_attack_05_Auto5
+[2024.04.02-13.59.33:323][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attack_05_Auto5C4430DDD4E5280DF8A5B94B5C09DDBB3.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/up-attack/up_attack_05_Auto5.uasset'
+[2024.04.02-13.59.33:323][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/up-attack/up_attack_06] ([1] browsable assets)...
+[2024.04.02-13.59.33:324][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/up-attack/up_attack_06.up_attack_06]
+[2024.04.02-13.59.33:324][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/up-attack/up_attack_06]
+[2024.04.02-13.59.33:325][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/up-attack/up_attack_06_Auto5
+[2024.04.02-13.59.33:325][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attack_06_Auto5F9C6BDB04590284D050437A27B79C0B7.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/up-attack/up_attack_06_Auto5.uasset'
+[2024.04.02-13.59.33:326][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/up-idle/up_idle_01] ([1] browsable assets)...
+[2024.04.02-13.59.33:327][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/up-idle/up_idle_01.up_idle_01]
+[2024.04.02-13.59.33:327][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/up-idle/up_idle_01]
+[2024.04.02-13.59.33:328][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/up-idle/up_idle_01_Auto5
+[2024.04.02-13.59.33:328][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_idle_01_Auto590F1E2D540C3A34A8F8A6FADF30C7CE3.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/up-idle/up_idle_01_Auto5.uasset'
+[2024.04.02-13.59.33:329][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/up-move/up_move_01] ([1] browsable assets)...
+[2024.04.02-13.59.33:330][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/up-move/up_move_01.up_move_01]
+[2024.04.02-13.59.33:330][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/up-move/up_move_01]
+[2024.04.02-13.59.33:332][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/up-move/up_move_01_Auto5
+[2024.04.02-13.59.33:332][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_move_01_Auto59FD1763C47A8A98CF008E9A0DCE874CA.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/up-move/up_move_01_Auto5.uasset'
+[2024.04.02-13.59.33:332][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/up-move/up_move_02] ([1] browsable assets)...
+[2024.04.02-13.59.33:333][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/up-move/up_move_02.up_move_02]
+[2024.04.02-13.59.33:333][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/up-move/up_move_02]
+[2024.04.02-13.59.33:335][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/up-move/up_move_02_Auto5
+[2024.04.02-13.59.33:335][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_move_02_Auto572F1C81B45E425B3F1048AB636EC1013.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/up-move/up_move_02_Auto5.uasset'
+[2024.04.02-13.59.33:336][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/up-move/up_move_03] ([1] browsable assets)...
+[2024.04.02-13.59.33:336][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/up-move/up_move_03.up_move_03]
+[2024.04.02-13.59.33:336][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/up-move/up_move_03]
+[2024.04.02-13.59.33:337][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/up-move/up_move_03_Auto5
+[2024.04.02-13.59.33:338][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_move_03_Auto588EDEA524024337DD2A1459F19B91D37.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/up-move/up_move_03_Auto5.uasset'
+[2024.04.02-13.59.33:338][111]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/Skeleton/up-move/up_move_04] ([1] browsable assets)...
+[2024.04.02-13.59.33:339][111]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/Skeleton/up-move/up_move_04.up_move_04]
+[2024.04.02-13.59.33:339][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/Skeleton/up-move/up_move_04]
+[2024.04.02-13.59.33:340][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprite/Skeleton/up-move/up_move_04_Auto5
+[2024.04.02-13.59.33:340][111]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_move_04_Auto57C738F344EB03D835B0D1BBD6991E3E8.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Sprite/Skeleton/up-move/up_move_04_Auto5.uasset'
+[2024.04.02-13.59.33:340][111]LogFileHelpers: Auto-saving content packages took 0.097
+[2024.04.02-14.01.31:053][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset" SILENT=true
+[2024.04.02-14.01.31:082][ 35]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Knight
+[2024.04.02-14.01.31:082][ 35]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Knight10C265DD404AA48B6D0FD3A9091D4BBD.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset'
+[2024.04.02-14.01.31:096][ 35]AssetCheck: New page: 에셋 저장:  BP_Knight
+[2024.04.02-14.01.31:096][ 35]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Knight.BP_Knight 유효성 검사 중
+[2024.04.02-14.01.52:823][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.02-14.02.00:932][ 28]LogContentBrowser: Attempting asset rename: BP_Knight_2 -> BP_Creature
+[2024.04.02-14.02.00:948][ 28]LogMetaData: Removing '/Game/BluePrint/BP_Creature.SKEL_BP_Creature_C' ref from Metadata '/Game/BluePrint/BP_Knight_2.PackageMetaData'
+[2024.04.02-14.02.00:948][ 28]LogMetaData: Removing '/Game/BluePrint/BP_Creature.BP_Creature_C' ref from Metadata '/Game/BluePrint/BP_Knight_2.PackageMetaData'
+[2024.04.02-14.02.00:948][ 28]LogMetaData: Removing '/Game/BluePrint/BP_Creature.SKEL_BP_Creature_C:ReceiveTick' ref from Metadata '/Game/BluePrint/BP_Knight_2.PackageMetaData'
+[2024.04.02-14.02.00:948][ 28]LogMetaData: Removing '/Game/BluePrint/BP_Creature.SKEL_BP_Creature_C:UserConstructionScript' ref from Metadata '/Game/BluePrint/BP_Knight_2.PackageMetaData'
+[2024.04.02-14.02.00:948][ 28]LogMetaData: Removing '/Game/BluePrint/BP_Creature.BP_Creature_C:ReceiveTick' ref from Metadata '/Game/BluePrint/BP_Knight_2.PackageMetaData'
+[2024.04.02-14.02.00:975][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Creature" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Creature.uasset" SILENT=true
+[2024.04.02-14.02.00:999][ 28]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Creature
+[2024.04.02-14.02.00:999][ 28]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_CreatureE5CD702249559BCF37414BA7314FE19F.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Creature.uasset'
+[2024.04.02-14.02.01:033][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.02-14.02.01:053][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.02-14.02.01:070][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.04.02-14.02.01:076][ 28]AssetCheck: New page: 에셋 저장:  BP_Creature
+[2024.04.02-14.02.01:076][ 28]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Creature.BP_Creature 유효성 검사 중
+[2024.04.02-14.02.05:106][501]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/BP_Creature.BP_Creature
+[2024.04.02-14.02.05:106][501]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.02-14.02.27:750][550]LogDerivedDataCache: C:/Users/FOR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.194 and deleted 0 file(s) with total size 0 MiB.
+[2024.04.02-14.03.29:276][599]LogEditorTransaction: Undo 노드 이동
+[2024.04.02-14.04.36:719][282]LogEditorTransaction: Undo 노드 추가
+[2024.04.02-14.05.42:238][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Creature" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Creature.uasset" SILENT=true
+[2024.04.02-14.05.42:262][648]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Creature
+[2024.04.02-14.05.42:263][648]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Creature2D84590D4D5A934C0E5D69BB29EB47EE.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Creature.uasset'
+[2024.04.02-14.05.42:273][648]AssetCheck: New page: 에셋 저장:  BP_Creature
+[2024.04.02-14.05.42:273][648]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Creature.BP_Creature 유효성 검사 중
+[2024.04.02-14.05.49:359][459]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.04.02-14.05.55:161][105]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/BluePrint/BP_Knight.BP_Knight from PaperCharacter to BP_Creature_C...
+[2024.04.02-14.05.55:186][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Internal Compiler Error: Tried to create a property Speed in scope SKEL_BP_Knight_C, but another object (DoubleProperty /Game/BluePrint/BP_Creature.SKEL_BP_Creature_C:Speed) already exists there.
+[2024.04.02-14.05.55:186][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Internal Compiler Error: Tried to create a property State in scope SKEL_BP_Knight_C, but another object (ByteProperty /Game/BluePrint/BP_Creature.SKEL_BP_Creature_C:State) already exists there.
+[2024.04.02-14.05.55:187][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Internal Compiler Error: Tried to create a property bAttack in scope SKEL_BP_Knight_C, but another object (BoolProperty /Game/BluePrint/BP_Creature.SKEL_BP_Creature_C:bAttack) already exists there.
+[2024.04.02-14.05.55:187][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Internal Compiler Error: Tried to create a property KeyboardPress in scope SKEL_BP_Knight_C, but another object (BoolProperty /Game/BluePrint/BP_Creature.SKEL_BP_Creature_C:KeyboardPress) already exists there.
+[2024.04.02-14.05.55:187][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Internal Compiler Error: Tried to create a property Direction in scope SKEL_BP_Knight_C, but another object (ByteProperty /Game/BluePrint/BP_Creature.SKEL_BP_Creature_C:Direction) already exists there.
+[2024.04.02-14.05.55:195][105]BlueprintLog: New page: BP_Knight 컴파일
+[2024.04.02-14.05.55:195][105]LogBlueprint: Warning: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 이름이 상충하는 (Direction) 멤버 변수가 있어, 이름을 변경했습니다: Direction_0.
+[2024.04.02-14.05.55:196][105]LogBlueprint: Warning: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 이름이 상충하는 (KeyboardPress) 멤버 변수가 있어, 이름을 변경했습니다: KeyboardPress_0.
+[2024.04.02-14.05.55:196][105]LogBlueprint: Warning: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 이름이 상충하는 (bAttack) 멤버 변수가 있어, 이름을 변경했습니다: bAttack_0.
+[2024.04.02-14.05.55:197][105]LogBlueprint: Warning: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 이름이 상충하는 (State) 멤버 변수가 있어, 이름을 변경했습니다: State_0.
+[2024.04.02-14.05.55:197][105]LogBlueprint: Warning: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 이름이 상충하는 (Speed) 멤버 변수가 있어, 이름을 변경했습니다: Speed_0.
+[2024.04.02-14.05.55:199][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Internal Compiler Error: Tried to create a property SpringArm in scope BP_Knight_C, but another object (ObjectProperty /Game/BluePrint/BP_Creature.BP_Creature_C:SpringArm) already exists there.
+[2024.04.02-14.05.55:199][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Internal Compiler Error: Tried to create a property CineCamera in scope BP_Knight_C, but another object (ObjectProperty /Game/BluePrint/BP_Creature.BP_Creature_C:CineCamera) already exists there.
+[2024.04.02-14.05.55:202][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] The function name in node  Update Animate  is already used
+[2024.04.02-14.05.55:203][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] The function name in node  Update Input  is already used
+[2024.04.02-14.05.55:205][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] The function name in node  Update Logic  is already used
+[2024.04.02-14.05.55:206][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] State 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.04.02-14.05.55:206][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] State 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.04.02-14.05.55:206][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] State 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.04.02-14.05.55:206][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] State 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.04.02-14.05.55:207][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Direction 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.04.02-14.05.55:207][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Direction 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.04.02-14.05.55:207][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Direction 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.04.02-14.05.55:207][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Direction 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.04.02-14.05.55:207][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] State 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.04.02-14.05.55:208][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] State 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.04.02-14.05.55:208][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] State 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.04.02-14.05.55:208][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] State 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.04.02-14.05.55:208][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Direction 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.04.02-14.05.55:208][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Direction 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.04.02-14.05.55:209][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Direction 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.04.02-14.05.55:209][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Direction 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.04.02-14.05.55:209][105]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] State 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2024.04.02-14.05.55:250][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.02-14.06.25:543][314]LogSlate: Window 'Variable 삭제' being destroyed
+[2024.04.02-14.06.27:466][445]LogSlate: Window 'Variable 삭제' being destroyed
+[2024.04.02-14.06.30:416][546]LogSlate: Window 'Variable 삭제' being destroyed
+[2024.04.02-14.06.40:466][506]LogSlate: Window 'Function 삭제' being destroyed
+[2024.04.02-14.06.48:522][121]LogSlate: Window 'Function 삭제' being destroyed
+[2024.04.02-14.06.53:544][364]LogSlate: Window 'Function 삭제' being destroyed
+[2024.04.02-14.07.32:368][490]LogEditorTransaction: Undo 현재 선택된 부분을 삭제합니다.
+[2024.04.02-14.07.33:405][571]LogEditorTransaction: Undo 현재 선택된 부분을 삭제합니다.
+[2024.04.02-14.07.52:353][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset" SILENT=true
+[2024.04.02-14.07.52:361][387]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Knight
+[2024.04.02-14.07.52:362][387]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_KnightE2EE75FF4BB4D2ABE0653FA54A4262DE.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset'
+[2024.04.02-14.07.52:373][387]AssetCheck: New page: 에셋 저장:  BP_Knight
+[2024.04.02-14.07.52:373][387]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Knight.BP_Knight 유효성 검사 중
+[2024.04.02-14.07.52:933][450]BlueprintLog: New page: BP_Knight 컴파일
+[2024.04.02-14.07.52:934][450]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Internal Compiler Error: Tried to create a property SpringArm in scope BP_Knight_C, but another object (ObjectProperty /Game/BluePrint/BP_Creature.BP_Creature_C:SpringArm) already exists there.
+[2024.04.02-14.07.52:935][450]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Internal Compiler Error: Tried to create a property CineCamera in scope BP_Knight_C, but another object (ObjectProperty /Game/BluePrint/BP_Creature.BP_Creature_C:CineCamera) already exists there.
+[2024.04.02-14.07.52:978][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.04.02-14.07.53:341][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset" SILENT=true
+[2024.04.02-14.07.53:348][485]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Knight
+[2024.04.02-14.07.53:349][485]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Knight86014D9E464A4EDBFE1984AB2FA408A2.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset'
+[2024.04.02-14.07.53:360][485]AssetCheck: New page: 에셋 저장:  BP_Knight
+[2024.04.02-14.07.53:360][485]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Knight.BP_Knight 유효성 검사 중
+[2024.04.02-14.08.32:127][665]LogViewport: Scene viewport resized to 1011x664, mode Windowed.
+[2024.04.02-14.08.46:546][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset" SILENT=true
+[2024.04.02-14.08.46:553][278]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Knight
+[2024.04.02-14.08.46:554][278]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_KnightBE9BC72A4DB92C8924609AA3BE5818E0.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset'
+[2024.04.02-14.08.46:565][278]AssetCheck: New page: 에셋 저장:  BP_Knight
+[2024.04.02-14.08.46:566][278]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Knight.BP_Knight 유효성 검사 중
+[2024.04.02-14.08.47:647][399]BlueprintLog: New page: BP_Knight 컴파일
+[2024.04.02-14.08.47:649][399]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Internal Compiler Error: Tried to create a property SpringArm in scope BP_Knight_C, but another object (ObjectProperty /Game/BluePrint/BP_Creature.BP_Creature_C:SpringArm) already exists there.
+[2024.04.02-14.08.47:649][399]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] Internal Compiler Error: Tried to create a property CineCamera in scope BP_Knight_C, but another object (ObjectProperty /Game/BluePrint/BP_Creature.BP_Creature_C:CineCamera) already exists there.
+[2024.04.02-14.08.47:702][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.02-14.08.48:268][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset" SILENT=true
+[2024.04.02-14.08.48:276][459]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Knight
+[2024.04.02-14.08.48:276][459]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_KnightF7D78BDA4F584D3B8D3CE98CD0B78A71.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset'
+[2024.04.02-14.08.48:287][459]AssetCheck: New page: 에셋 저장:  BP_Knight
+[2024.04.02-14.08.48:287][459]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Knight.BP_Knight 유효성 검사 중
+[2024.04.02-14.09.48:504][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Creature" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Creature.uasset" SILENT=true
+[2024.04.02-14.09.48:526][845]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Creature
+[2024.04.02-14.09.48:527][845]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Creature31CCBF004C8C23D3B8C0C18C1AE8FC05.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Creature.uasset'
+[2024.04.02-14.09.48:538][845]AssetCheck: New page: 에셋 저장:  BP_Creature
+[2024.04.02-14.09.48:538][845]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Creature.BP_Creature 유효성 검사 중
+[2024.04.02-14.09.48:902][885]BlueprintLog: New page: BP_Creature 컴파일
+[2024.04.02-14.09.48:957][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.02-14.09.49:547][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Creature" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Creature.uasset" SILENT=true
+[2024.04.02-14.09.49:571][937]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Creature
+[2024.04.02-14.09.49:572][937]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Creature23F3E1854E279831189279AEE9DA2AD9.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Creature.uasset'
+[2024.04.02-14.09.49:583][937]AssetCheck: New page: 에셋 저장:  BP_Creature
+[2024.04.02-14.09.49:584][937]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Creature.BP_Creature 유효성 검사 중
+[2024.04.02-14.09.50:558][ 44]BlueprintLog: New page: BP_Knight 컴파일
+[2024.04.02-14.09.50:604][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.02-14.09.51:036][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset" SILENT=true
+[2024.04.02-14.09.51:043][ 84]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Knight
+[2024.04.02-14.09.51:044][ 84]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Knight42D96A5F43AF029F82C775AFD50D266E.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset'
+[2024.04.02-14.09.51:054][ 84]AssetCheck: New page: 에셋 저장:  BP_Knight
+[2024.04.02-14.09.51:054][ 84]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Knight.BP_Knight 유효성 검사 중
+[2024.04.02-14.09.59:371][354]LogDebuggerCommands: Repeating last play command: 시뮬레이트
+[2024.04.02-14.09.59:378][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.02-14.09.59:378][354]PIE: New page: SIE 세션: MainMap (2024. 4. 3. 오전 8:09:59)
+[2024.04.02-14.09.59:378][354]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2024.04.02-14.09.59:380][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001723s)
+[2024.04.02-14.09.59:380][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001775s)
+[2024.04.02-14.09.59:380][354]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.02-14.09.59:380][354]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.02-14.09.59:380][354]LogAIModule: Creating AISystem for world MainMap
+[2024.04.02-14.09.59:380][354]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2024.04.02-14.09.59:404][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.02-14.09.59:407][354]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.04.02-14.09.59:407][354]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.02-14.09.59:407][354]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.02-14.09.59:407][354]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.02-14.09.59:407][354]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.02-14.09.59:407][354]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.02-14.09.59:407][354]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.02-14.09.59:407][354]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.02-14.09.59:407][354]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.02-14.09.59:407][354]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.02-14.09.59:407][354]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.02-14.09.59:407][354]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.02-14.09.59:409][354]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.02-14.09.59:477][354]LogAudioMixer: Display: Using Audio Hardware Device LC34G55T(NVIDIA High Definition Audio)
+[2024.04.02-14.09.59:477][354]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.02-14.09.59:477][354]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.02-14.09.59:477][354]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.02-14.09.59:478][354]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.04.02-14.09.59:478][354]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.04.02-14.09.59:480][354]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.04.02-14.09.59:480][354]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.04.02-14.09.59:480][354]LogInit: FAudioDevice initialized.
+[2024.04.02-14.09.59:480][354]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMap'.
+[2024.04.02-14.09.59:494][354]LogLoad: Game class is 'GameModeBase'
+[2024.04.02-14.09.59:494][354]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2024.04.02-23.09.59
+[2024.04.02-14.09.59:494][354]LogWorld: Bringing up level for play took: 0.000543
+[2024.04.02-14.09.59:496][354]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.04.02-14.09.59:496][354]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.04.02-14.09.59:497][354]PIE: 서버가 로그인했습니다.
+[2024.04.02-14.09.59:497][354]PIE: 에디터에서 플레이 총 시작 시간 0.122초입니다.
+[2024.04.02-14.10.04:275][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.02-14.10.04:275][898]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2024.04.02-14.10.04:276][898]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.02-14.10.04:276][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.02-14.10.04:294][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.02-14.10.04:297][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.02-14.10.04:319][898]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.02-14.10.04:319][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.04.02-14.10.04:320][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.04.02-14.10.04:324][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.02-14.10.04:325][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.02-14.10.04:370][899]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.04.02-14.10.37:867][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.02-14.10.37:870][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Maps/MainMap_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.04.02-14.10.37:874][969]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/MainMap_Auto6
+[2024.04.02-14.10.37:875][969]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/MainMap_Auto68DE8B5B240FAE7E62059C989C0A5C5EE.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/Maps/MainMap_Auto6.umap'
+[2024.04.02-14.10.37:881][969]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMap' took 0.037
+[2024.04.02-14.10.37:881][969]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2024.04.02-14.12.56:975][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset" SILENT=true
+[2024.04.02-14.12.56:989][675]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Knight
+[2024.04.02-14.12.56:990][675]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Knight702AA8A34411D31EB2380AA2C491AF83.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset'
+[2024.04.02-14.12.57:001][675]AssetCheck: New page: 에셋 저장:  BP_Knight
+[2024.04.02-14.12.57:001][675]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Knight.BP_Knight 유효성 검사 중
+[2024.04.02-14.13.05:995][398]LogSlate: Window 'Function 삭제' being destroyed
+[2024.04.02-14.13.07:339][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.02-14.13.07:365][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.04.02-14.13.07:374][538]LogSavePackage: Moving output files for package: /Game/Maps/MainMap
+[2024.04.02-14.13.07:375][538]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/MainMapFA7DA5ED4C6ED799B6EBC6809FF846A1.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Maps/MainMap.umap'
+[2024.04.02-14.13.07:395][538]AssetCheck: New page: 에셋 저장:  MainMap
+[2024.04.02-14.13.07:395][538]LogContentValidation: Display: World /Game/Maps/MainMap.MainMap 유효성 검사 중
+[2024.04.02-14.13.08:059][613]BlueprintLog: New page: BP_Creature 컴파일
+[2024.04.02-14.13.08:070][613]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Update Input  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.04.02-14.13.08:071][613]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Update Input  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.04.02-14.13.08:071][613]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] BP_Creature_C'에서 "Update Input" 라는 이름의 함수를 찾을 수 없습니다.
+ Update Input 에 대해 'BP_Creature_C' 컴파일이 되었는지 확인하세요.
+[2024.04.02-14.13.08:120][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.02-14.13.08:667][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Creature" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Creature.uasset" SILENT=true
+[2024.04.02-14.13.08:685][666]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Creature
+[2024.04.02-14.13.08:686][666]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Creature3243CBB94CEB7E4AEB926EBF04F5B83D.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Creature.uasset'
+[2024.04.02-14.13.08:699][666]AssetCheck: New page: 에셋 저장:  BP_Creature
+[2024.04.02-14.13.08:700][666]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Creature.BP_Creature 유효성 검사 중
+[2024.04.02-14.13.09:845][784]BlueprintLog: New page: BP_Knight 컴파일
+[2024.04.02-14.13.09:848][784]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Update Input  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.04.02-14.13.09:848][784]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Update Input  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.04.02-14.13.09:849][784]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] BP_Creature_C'에서 "Update Input" 라는 이름의 함수를 찾을 수 없습니다.
+ Update Input 에 대해 'BP_Creature_C' 컴파일이 되었는지 확인하세요.
+[2024.04.02-14.13.09:893][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.02-14.13.11:174][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset" SILENT=true
+[2024.04.02-14.13.11:187][925]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Knight
+[2024.04.02-14.13.11:188][925]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_KnightBF116A3B4329C80700C4A9BFEA426BDE.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset'
+[2024.04.02-14.13.11:198][925]AssetCheck: New page: 에셋 저장:  BP_Knight
+[2024.04.02-14.13.11:198][925]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Knight.BP_Knight 유효성 검사 중
+[2024.04.02-14.13.12:143][ 28]BlueprintLog: New page: BP_Knight 컴파일
+[2024.04.02-14.13.12:146][ 28]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Update Input  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.04.02-14.13.12:146][ 28]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Update Input  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.04.02-14.13.12:146][ 28]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] BP_Creature_C'에서 "Update Input" 라는 이름의 함수를 찾을 수 없습니다.
+ Update Input 에 대해 'BP_Creature_C' 컴파일이 되었는지 확인하세요.
+[2024.04.02-14.13.12:188][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.02-14.13.38:969][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset" SILENT=true
+[2024.04.02-14.13.38:982][460]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Knight
+[2024.04.02-14.13.38:983][460]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Knight07DE29AF405136885A73E081539F0BEC.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset'
+[2024.04.02-14.13.38:994][460]AssetCheck: New page: 에셋 저장:  BP_Knight
+[2024.04.02-14.13.38:994][460]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Knight.BP_Knight 유효성 검사 중
+[2024.04.02-14.13.40:072][571]BlueprintLog: New page: BP_Knight 컴파일
+[2024.04.02-14.13.40:074][571]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Update Input  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.04.02-14.13.40:074][571]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Update Input  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.04.02-14.13.40:074][571]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] BP_Creature_C'에서 "Update Input" 라는 이름의 함수를 찾을 수 없습니다.
+ Update Input 에 대해 'BP_Creature_C' 컴파일이 되었는지 확인하세요.
+[2024.04.02-14.13.40:112][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.04.02-14.13.40:625][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset" SILENT=true
+[2024.04.02-14.13.40:639][620]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Knight
+[2024.04.02-14.13.40:640][620]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Knight70DA97C84283A9C053AFCC80114A0D3A.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset'
+[2024.04.02-14.13.40:652][620]AssetCheck: New page: 에셋 저장:  BP_Knight
+[2024.04.02-14.13.40:652][620]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Knight.BP_Knight 유효성 검사 중
+[2024.04.02-14.13.47:985][419]BlueprintLog: New page: BP_Knight 컴파일
+[2024.04.02-14.13.47:988][419]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Update Input  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.04.02-14.13.47:988][419]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Update Input  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.04.02-14.13.47:988][419]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] BP_Creature_C'에서 "Update Input" 라는 이름의 함수를 찾을 수 없습니다.
+ Update Input 에 대해 'BP_Creature_C' 컴파일이 되었는지 확인하세요.
+[2024.04.02-14.13.48:025][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.02-14.13.48:569][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset" SILENT=true
+[2024.04.02-14.13.48:582][473]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Knight
+[2024.04.02-14.13.48:582][473]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Knight704D92814AA3AC4620243A824D3E280E.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset'
+[2024.04.02-14.13.48:593][473]AssetCheck: New page: 에셋 저장:  BP_Knight
+[2024.04.02-14.13.48:593][473]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Knight.BP_Knight 유효성 검사 중
+[2024.04.02-14.13.50:120][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.02-14.13.50:143][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.02-14.13.50:150][639]LogSavePackage: Moving output files for package: /Game/Maps/MainMap
+[2024.04.02-14.13.50:151][639]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/MainMap2E7A918A4B32BFDF6D3DFF9A79A35F85.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Maps/MainMap.umap'
+[2024.04.02-14.13.50:170][639]AssetCheck: New page: 에셋 저장:  MainMap
+[2024.04.02-14.13.50:171][639]LogContentValidation: Display: World /Game/Maps/MainMap.MainMap 유효성 검사 중
+[2024.04.02-14.13.51:314][761]BlueprintLog: New page: BP_Creature 컴파일
+[2024.04.02-14.13.51:324][761]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Update Input  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.04.02-14.13.51:325][761]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Update Input  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.04.02-14.13.51:325][761]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] BP_Creature_C'에서 "Update Input" 라는 이름의 함수를 찾을 수 없습니다.
+ Update Input 에 대해 'BP_Creature_C' 컴파일이 되었는지 확인하세요.
+[2024.04.02-14.13.51:377][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.02-14.13.51:829][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Creature" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Creature.uasset" SILENT=true
+[2024.04.02-14.13.51:845][807]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Creature
+[2024.04.02-14.13.51:846][807]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Creature2CBB5CD742881CC8D7114C86FF18E0E1.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Creature.uasset'
+[2024.04.02-14.13.51:856][807]AssetCheck: New page: 에셋 저장:  BP_Creature
+[2024.04.02-14.13.51:856][807]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Creature.BP_Creature 유효성 검사 중
+[2024.04.02-14.13.52:880][913]BlueprintLog: New page: BP_Knight 컴파일
+[2024.04.02-14.13.52:883][913]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Update Input  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.04.02-14.13.52:883][913]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Update Input  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.04.02-14.13.52:883][913]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] BP_Creature_C'에서 "Update Input" 라는 이름의 함수를 찾을 수 없습니다.
+ Update Input 에 대해 'BP_Creature_C' 컴파일이 되었는지 확인하세요.
+[2024.04.02-14.13.52:929][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.02-14.13.53:405][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset" SILENT=true
+[2024.04.02-14.13.53:417][956]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Knight
+[2024.04.02-14.13.53:418][956]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Knight8C2392C34577D609F5D2BBBE0759B66B.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset'
+[2024.04.02-14.13.53:428][956]AssetCheck: New page: 에셋 저장:  BP_Knight
+[2024.04.02-14.13.53:428][956]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Knight.BP_Knight 유효성 검사 중
+[2024.04.02-14.14.01:883][914]BlueprintLog: New page: BP_Knight 컴파일
+[2024.04.02-14.14.01:886][914]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Update Input  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.04.02-14.14.01:886][914]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] 사용 중인  <이름없음>  핀은 더 이상  Update Input  노드에 존재하지 않습니다. 노드를 새로 고치거나 링크를 끊어 핀을 제거하세요.
+[2024.04.02-14.14.01:887][914]LogBlueprint: Error: [AssetLog] C:\UnrealProject\UE5\UE5_2D_A\Content\BluePrint\BP_Knight.uasset: [Compiler] BP_Creature_C'에서 "Update Input" 라는 이름의 함수를 찾을 수 없습니다.
+ Update Input 에 대해 'BP_Creature_C' 컴파일이 되었는지 확인하세요.
+[2024.04.02-14.14.01:929][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.02-14.14.02:411][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset" SILENT=true
+[2024.04.02-14.14.02:424][961]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Knight
+[2024.04.02-14.14.02:425][961]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Knight78C516D04C3BB7885714BA94145D1D09.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset'
+[2024.04.02-14.14.02:434][961]AssetCheck: New page: 에셋 저장:  BP_Knight
+[2024.04.02-14.14.02:434][961]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Knight.BP_Knight 유효성 검사 중
+[2024.04.02-14.14.59:672][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset" SILENT=true
+[2024.04.02-14.14.59:685][692]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Knight
+[2024.04.02-14.14.59:685][692]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Knight8302314942165CC7F916FFA752F93DF3.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset'
+[2024.04.02-14.14.59:696][692]AssetCheck: New page: 에셋 저장:  BP_Knight
+[2024.04.02-14.14.59:696][692]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Knight.BP_Knight 유효성 검사 중
+[2024.04.02-14.15.00:712][796]BlueprintLog: New page: BP_Knight 컴파일
+[2024.04.02-14.15.00:758][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.02-14.15.01:187][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset" SILENT=true
+[2024.04.02-14.15.01:201][837]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Knight
+[2024.04.02-14.15.01:201][837]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Knight0544537A4BF91945D1E3E8A369F6B586.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset'
+[2024.04.02-14.15.01:213][837]AssetCheck: New page: 에셋 저장:  BP_Knight
+[2024.04.02-14.15.01:213][837]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Knight.BP_Knight 유효성 검사 중
+[2024.04.02-14.15.41:730][770]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.04.02-14.15.47:364][770]LogSlate: Window '부모 클래스 선택' being destroyed
+[2024.04.02-14.15.47:369][770]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.02-14.15.47:377][770]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.02-14.15.47:395][771]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.02-14.15.50:688][141]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Monster
+[2024.04.02-14.15.50:696][141]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.02-14.15.52:177][303]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/BP_Monster.BP_Monster
+[2024.04.02-14.15.52:178][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.02-14.15.52:455][303]LogViewport: Scene viewport resized to 1011x664, mode Windowed.
+[2024.04.02-14.16.29:743][778]LogEditorTransaction: Undo 노드 이동
+[2024.04.02-14.16.45:157][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Monster" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Monster.uasset" SILENT=true
+[2024.04.02-14.16.45:160][ 88]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Monster
+[2024.04.02-14.16.45:161][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_MonsterA7F081274C7ABE06F33D5593865623AA.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Monster.uasset'
+[2024.04.02-14.16.45:171][ 88]AssetCheck: New page: 에셋 저장:  BP_Monster
+[2024.04.02-14.16.45:171][ 88]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Monster.BP_Monster 유효성 검사 중
+[2024.04.02-14.17.06:442][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset" SILENT=true
+[2024.04.02-14.17.06:455][416]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Knight
+[2024.04.02-14.17.06:455][416]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_KnightD858383D4AF6B1CE9C14B4933ACA55B4.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Knight.uasset'
+[2024.04.02-14.17.06:467][416]AssetCheck: New page: 에셋 저장:  BP_Knight
+[2024.04.02-14.17.06:467][416]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Knight.BP_Knight 유효성 검사 중
+[2024.04.02-14.18.22:329][903]LogEditorTransaction: Undo 노드 이동
+[2024.04.02-14.18.22:852][924]LogEditorTransaction: Undo 오버라이드 함수 그래프 생성
+[2024.04.02-14.18.35:603][357]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrint/BP_Monster.BP_Monster_C
+[2024.04.02-14.18.35:603][357]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrint/BP_Monster.BP_Monster_C
+[2024.04.02-14.18.35:604][357]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrint/BP_Monster.BP_Monster as actor: BP_Monster_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Monster_C_0
+[2024.04.02-14.18.35:604][357]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrint/BP_Monster.BP_Monster as actor: BP_Monster_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Monster_C_0
+[2024.04.02-14.18.36:548][463]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrint/BP_Monster.BP_Monster_C
+[2024.04.02-14.18.36:548][463]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrint/BP_Monster.BP_Monster_C
+[2024.04.02-14.18.36:549][463]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrint/BP_Monster.BP_Monster as actor: BP_Monster_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Monster_C_1
+[2024.04.02-14.18.36:549][463]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrint/BP_Monster.BP_Monster as actor: BP_Monster_C /Game/Maps/MainMap.MainMap:PersistentLevel.BP_Monster_C_1
+[2024.04.02-14.18.43:796][118]LogDebuggerCommands: Repeating last play command: 시뮬레이트
+[2024.04.02-14.18.43:807][118]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2024.04.02-14.18.43:808][118]LogPlayLevel: [PlayLevel] Compiling BP_Knight before play...
+[2024.04.02-14.18.43:846][118]LogPlayLevel: [PlayLevel] Compiling BP_Monster before play...
+[2024.04.02-14.18.43:922][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.02-14.18.43:923][118]LogPlayLevel: PlayLevel: Blueprint regeneration took 116 ms (2 blueprints)
+[2024.04.02-14.18.43:923][118]PIE: New page: SIE 세션: MainMap (2024. 4. 3. 오전 8:18:43)
+[2024.04.02-14.18.43:961][118]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2024.04.02-14.18.43:963][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001909s)
+[2024.04.02-14.18.43:963][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001977s)
+[2024.04.02-14.18.43:963][118]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.02-14.18.43:963][118]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.02-14.18.43:963][118]LogAIModule: Creating AISystem for world MainMap
+[2024.04.02-14.18.43:963][118]LogPlayLevel: PIE: World Init took: (0.000548s)
+[2024.04.02-14.18.43:990][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.02-14.18.43:991][118]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.04.02-14.18.43:991][118]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.02-14.18.43:991][118]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.02-14.18.43:991][118]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.02-14.18.43:991][118]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.02-14.18.43:991][118]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.02-14.18.43:991][118]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.02-14.18.43:991][118]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.02-14.18.43:991][118]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.02-14.18.43:992][118]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.02-14.18.43:992][118]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.02-14.18.43:992][118]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.02-14.18.43:993][118]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.02-14.18.44:062][118]LogAudioMixer: Display: Using Audio Hardware Device LC34G55T(NVIDIA High Definition Audio)
+[2024.04.02-14.18.44:062][118]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.02-14.18.44:062][118]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.02-14.18.44:062][118]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.02-14.18.44:063][118]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.04.02-14.18.44:063][118]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.04.02-14.18.44:064][118]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.04.02-14.18.44:064][118]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.04.02-14.18.44:064][118]LogInit: FAudioDevice initialized.
+[2024.04.02-14.18.44:064][118]LogAudio: Display: Audio Device (ID: 20) registered with world 'MainMap'.
+[2024.04.02-14.18.44:077][118]LogLoad: Game class is 'GameModeBase'
+[2024.04.02-14.18.44:078][118]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2024.04.02-23.18.44
+[2024.04.02-14.18.44:080][118]LogWorld: Bringing up level for play took: 0.002591
+[2024.04.02-14.18.44:082][118]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.04.02-14.18.44:082][118]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.04.02-14.18.44:082][118]PIE: 서버가 로그인했습니다.
+[2024.04.02-14.18.44:083][118]PIE: 에디터에서 플레이 총 시작 시간 0.279초입니다.
+[2024.04.02-14.18.48:591][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.02-14.18.48:591][588]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2024.04.02-14.18.48:591][588]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.02-14.18.48:591][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.02-14.18.48:604][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.02-14.18.48:607][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.02-14.18.48:635][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.02-14.18.48:636][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.04.02-14.18.48:637][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.04.02-14.18.48:642][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.02-14.18.48:666][589]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.04.02-14.19.09:862][732]Cmd: SELECT NONE
+[2024.04.02-14.19.15:783][313]LogViewport: Scene viewport resized to 429x241, mode Windowed.
+[2024.04.02-14.19.19:910][724]LogViewport: Scene viewport resized to 429x241, mode Windowed.
+[2024.04.02-14.19.26:633][437]LogViewport: Scene viewport resized to 429x241, mode Windowed.
+[2024.04.02-14.19.31:878][973]LogDebuggerCommands: Repeating last play command: 시뮬레이트
+[2024.04.02-14.19.31:885][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.02-14.19.31:885][973]PIE: New page: SIE 세션: MainMap (2024. 4. 3. 오전 8:19:31)
+[2024.04.02-14.19.31:910][973]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2024.04.02-14.19.31:912][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001892s)
+[2024.04.02-14.19.31:912][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.001960s)
+[2024.04.02-14.19.31:912][973]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.02-14.19.31:912][973]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.02-14.19.31:913][973]LogAIModule: Creating AISystem for world MainMap
+[2024.04.02-14.19.31:913][973]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2024.04.02-14.19.31:941][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.02-14.19.31:943][973]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.04.02-14.19.31:943][973]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.02-14.19.31:943][973]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.02-14.19.31:943][973]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.02-14.19.31:943][973]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.02-14.19.31:943][973]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.02-14.19.31:943][973]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.02-14.19.31:943][973]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.02-14.19.31:943][973]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.02-14.19.31:943][973]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.02-14.19.31:943][973]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.02-14.19.31:943][973]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.02-14.19.31:945][973]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.02-14.19.32:012][973]LogAudioMixer: Display: Using Audio Hardware Device LC34G55T(NVIDIA High Definition Audio)
+[2024.04.02-14.19.32:013][973]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.02-14.19.32:013][973]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.02-14.19.32:013][973]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.02-14.19.32:014][973]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.04.02-14.19.32:014][973]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.04.02-14.19.32:015][973]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.04.02-14.19.32:015][973]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.04.02-14.19.32:015][973]LogInit: FAudioDevice initialized.
+[2024.04.02-14.19.32:015][973]LogAudio: Display: Audio Device (ID: 21) registered with world 'MainMap'.
+[2024.04.02-14.19.32:028][973]LogLoad: Game class is 'GameModeBase'
+[2024.04.02-14.19.32:029][973]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2024.04.02-23.19.32
+[2024.04.02-14.19.32:029][973]LogWorld: Bringing up level for play took: 0.000599
+[2024.04.02-14.19.32:030][973]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.04.02-14.19.32:030][973]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.04.02-14.19.32:031][973]PIE: 서버가 로그인했습니다.
+[2024.04.02-14.19.32:031][973]PIE: 에디터에서 플레이 총 시작 시간 0.148초입니다.
+[2024.04.02-14.19.38:780][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.02-14.19.38:780][748]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2024.04.02-14.19.38:781][748]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.02-14.19.38:781][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.02-14.19.38:793][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.02-14.19.38:796][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.02-14.19.38:824][748]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.02-14.19.38:825][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.04.02-14.19.38:826][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.04.02-14.19.38:829][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.02-14.19.38:831][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.04.02-14.19.38:865][749]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.04.02-14.20.13:407][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.02-14.20.13:458][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.02-14.20.13:485][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.04.02-14.20.13:491][ 88]LogSavePackage: Moving output files for package: /Game/Maps/MainMap
+[2024.04.02-14.20.13:492][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/MainMap92F3ED30458B759389B947B971F48A48.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Maps/MainMap.umap'
+[2024.04.02-14.20.13:503][ 88]LogFileHelpers: Saving map 'MainMap' took 0.045
+[2024.04.02-14.20.13:503][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/down-attack/down_attack_01" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-attack/down_attack_01.uasset" SILENT=true
+[2024.04.02-14.20.13:506][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-attack/down_attack_01
+[2024.04.02-14.20.13:506][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack_012CD36F5243C1D14B4E7AFD838BCA6178.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-attack/down_attack_01.uasset'
+[2024.04.02-14.20.13:507][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/down-attack/down_attack_02" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-attack/down_attack_02.uasset" SILENT=true
+[2024.04.02-14.20.13:508][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-attack/down_attack_02
+[2024.04.02-14.20.13:508][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack_02DF7D1E2A421A3EB1B7C730BFD59DFFE3.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-attack/down_attack_02.uasset'
+[2024.04.02-14.20.13:509][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/down-attack/down_attack_03" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-attack/down_attack_03.uasset" SILENT=true
+[2024.04.02-14.20.13:511][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-attack/down_attack_03
+[2024.04.02-14.20.13:511][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack_03D57F53F04CACF870EFCE41810FB1E367.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-attack/down_attack_03.uasset'
+[2024.04.02-14.20.13:511][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/down-attack/down_attack_04" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-attack/down_attack_04.uasset" SILENT=true
+[2024.04.02-14.20.13:513][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-attack/down_attack_04
+[2024.04.02-14.20.13:513][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack_041C0C1D5443F1C53F531A74873EA6D8F4.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-attack/down_attack_04.uasset'
+[2024.04.02-14.20.13:514][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/down-attack/down_attack_05" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-attack/down_attack_05.uasset" SILENT=true
+[2024.04.02-14.20.13:515][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-attack/down_attack_05
+[2024.04.02-14.20.13:515][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack_0553A42C404C45182F06701D87A6997A07.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-attack/down_attack_05.uasset'
+[2024.04.02-14.20.13:516][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/down-attack/down_attack_06" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-attack/down_attack_06.uasset" SILENT=true
+[2024.04.02-14.20.13:518][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-attack/down_attack_06
+[2024.04.02-14.20.13:518][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack_062F98B96B445D8359DDE155BA13D22CBE.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-attack/down_attack_06.uasset'
+[2024.04.02-14.20.13:519][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/down-idle/down_idle_01" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-idle/down_idle_01.uasset" SILENT=true
+[2024.04.02-14.20.13:520][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-idle/down_idle_01
+[2024.04.02-14.20.13:520][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_idle_017F186FC5406A0A748E2F0BA44D4ADEAD.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-idle/down_idle_01.uasset'
+[2024.04.02-14.20.13:521][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/down-move/down_move_01" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-move/down_move_01.uasset" SILENT=true
+[2024.04.02-14.20.13:522][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-move/down_move_01
+[2024.04.02-14.20.13:522][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_move_010248027E42C36B94A486E183F604A72E.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-move/down_move_01.uasset'
+[2024.04.02-14.20.13:523][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/down-move/down_move_02" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-move/down_move_02.uasset" SILENT=true
+[2024.04.02-14.20.13:525][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-move/down_move_02
+[2024.04.02-14.20.13:525][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_move_0216B3C650438E13434D74098D24892C35.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-move/down_move_02.uasset'
+[2024.04.02-14.20.13:525][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/down-move/down_move_03" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-move/down_move_03.uasset" SILENT=true
+[2024.04.02-14.20.13:527][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-move/down_move_03
+[2024.04.02-14.20.13:527][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_move_03EE6B61994AF5B4C984E783B83316A2D6.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-move/down_move_03.uasset'
+[2024.04.02-14.20.13:528][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/down-move/down_move_04" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-move/down_move_04.uasset" SILENT=true
+[2024.04.02-14.20.13:529][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-move/down_move_04
+[2024.04.02-14.20.13:529][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_move_04209E924D4EDDAFECF010C39B8D45B50A.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-move/down_move_04.uasset'
+[2024.04.02-14.20.13:530][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/side-attack/side_attack_01" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-attack/side_attack_01.uasset" SILENT=true
+[2024.04.02-14.20.13:531][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-attack/side_attack_01
+[2024.04.02-14.20.13:531][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attack_01C33FE0644BF5EA053ED163856AF74C52.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-attack/side_attack_01.uasset'
+[2024.04.02-14.20.13:532][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/side-attack/side_attack_02" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-attack/side_attack_02.uasset" SILENT=true
+[2024.04.02-14.20.13:533][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-attack/side_attack_02
+[2024.04.02-14.20.13:533][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attack_02660899FC41E76FC0E02098951034F7FF.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-attack/side_attack_02.uasset'
+[2024.04.02-14.20.13:534][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/side-attack/side_attack_03" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-attack/side_attack_03.uasset" SILENT=true
+[2024.04.02-14.20.13:535][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-attack/side_attack_03
+[2024.04.02-14.20.13:535][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attack_03DBDF064D476F1BEE4866588A26491C89.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-attack/side_attack_03.uasset'
+[2024.04.02-14.20.13:536][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/side-attack/side_attack_04" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-attack/side_attack_04.uasset" SILENT=true
+[2024.04.02-14.20.13:537][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-attack/side_attack_04
+[2024.04.02-14.20.13:537][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attack_04AD5C9B394EDB41573AC0B38C09C42E80.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-attack/side_attack_04.uasset'
+[2024.04.02-14.20.13:538][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/side-attack/side_attack_05" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-attack/side_attack_05.uasset" SILENT=true
+[2024.04.02-14.20.13:540][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-attack/side_attack_05
+[2024.04.02-14.20.13:540][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attack_052C028AEF43FA8441792469A9FEB3F80A.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-attack/side_attack_05.uasset'
+[2024.04.02-14.20.13:540][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/side-attack/side_attack_06" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-attack/side_attack_06.uasset" SILENT=true
+[2024.04.02-14.20.13:542][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-attack/side_attack_06
+[2024.04.02-14.20.13:542][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attack_066CAEF3124E1B884DCFE5C4891D817BC5.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-attack/side_attack_06.uasset'
+[2024.04.02-14.20.13:543][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/side-idle/side_idle_01" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-idle/side_idle_01.uasset" SILENT=true
+[2024.04.02-14.20.13:544][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-idle/side_idle_01
+[2024.04.02-14.20.13:544][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_idle_0111551C8F445714190199208B8DAB4398.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-idle/side_idle_01.uasset'
+[2024.04.02-14.20.13:545][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/side-move/side_move_01" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-move/side_move_01.uasset" SILENT=true
+[2024.04.02-14.20.13:546][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-move/side_move_01
+[2024.04.02-14.20.13:546][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_move_014A4AB2194FC76C84D075FA92E10CB112.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-move/side_move_01.uasset'
+[2024.04.02-14.20.13:547][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/side-move/side_move_02" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-move/side_move_02.uasset" SILENT=true
+[2024.04.02-14.20.13:548][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-move/side_move_02
+[2024.04.02-14.20.13:549][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_move_02A84D9BA544C3723D4BBABF959709B5A2.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-move/side_move_02.uasset'
+[2024.04.02-14.20.13:549][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/side-move/side_move_03" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-move/side_move_03.uasset" SILENT=true
+[2024.04.02-14.20.13:551][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-move/side_move_03
+[2024.04.02-14.20.13:551][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_move_03B92925C145F39A63724F4CB9DF1EA43A.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-move/side_move_03.uasset'
+[2024.04.02-14.20.13:551][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/side-move/side_move_04" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-move/side_move_04.uasset" SILENT=true
+[2024.04.02-14.20.13:553][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-move/side_move_04
+[2024.04.02-14.20.13:553][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_move_043FBB672A4B2F9254E3749783F6E0F34E.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-move/side_move_04.uasset'
+[2024.04.02-14.20.13:554][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up-attack/up_attack_01" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-attack/up_attack_01.uasset" SILENT=true
+[2024.04.02-14.20.13:555][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-attack/up_attack_01
+[2024.04.02-14.20.13:555][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attack_01F5278B794BC2D62301F5C386D7BCC24A.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-attack/up_attack_01.uasset'
+[2024.04.02-14.20.13:556][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up-attack/up_attack_02" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-attack/up_attack_02.uasset" SILENT=true
+[2024.04.02-14.20.13:557][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-attack/up_attack_02
+[2024.04.02-14.20.13:557][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attack_02F19430FE413F28D44D7574AC0661226A.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-attack/up_attack_02.uasset'
+[2024.04.02-14.20.13:558][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up-attack/up_attack_03" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-attack/up_attack_03.uasset" SILENT=true
+[2024.04.02-14.20.13:559][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-attack/up_attack_03
+[2024.04.02-14.20.13:560][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attack_03A7660DA44EC18D31FA2E9480F580CCD8.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-attack/up_attack_03.uasset'
+[2024.04.02-14.20.13:560][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up-attack/up_attack_04" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-attack/up_attack_04.uasset" SILENT=true
+[2024.04.02-14.20.13:562][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-attack/up_attack_04
+[2024.04.02-14.20.13:562][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attack_04242C5A9C4A4797FFF643C9842278E3D3.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-attack/up_attack_04.uasset'
+[2024.04.02-14.20.13:562][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up-attack/up_attack_05" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-attack/up_attack_05.uasset" SILENT=true
+[2024.04.02-14.20.13:564][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-attack/up_attack_05
+[2024.04.02-14.20.13:564][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attack_05BA7281654BB4F23BFBD3589BD068D2A0.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-attack/up_attack_05.uasset'
+[2024.04.02-14.20.13:565][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up-attack/up_attack_06" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-attack/up_attack_06.uasset" SILENT=true
+[2024.04.02-14.20.13:566][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-attack/up_attack_06
+[2024.04.02-14.20.13:566][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attack_06170CC8BF4ED44546CE6D4984F1FC6AF6.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-attack/up_attack_06.uasset'
+[2024.04.02-14.20.13:567][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up-idle/up_idle_01" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-idle/up_idle_01.uasset" SILENT=true
+[2024.04.02-14.20.13:568][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-idle/up_idle_01
+[2024.04.02-14.20.13:568][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_idle_0145C1AF5B4B375F94B32ADDAF2766DEF8.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-idle/up_idle_01.uasset'
+[2024.04.02-14.20.13:569][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up-move/up_move_01" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-move/up_move_01.uasset" SILENT=true
+[2024.04.02-14.20.13:571][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-move/up_move_01
+[2024.04.02-14.20.13:571][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_move_01E9D032F84A4612AB3711AF911E5D7862.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-move/up_move_01.uasset'
+[2024.04.02-14.20.13:572][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up-move/up_move_02" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-move/up_move_02.uasset" SILENT=true
+[2024.04.02-14.20.13:573][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-move/up_move_02
+[2024.04.02-14.20.13:573][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_move_02E65909C74F729184D22A239F9168897F.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-move/up_move_02.uasset'
+[2024.04.02-14.20.13:574][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up-move/up_move_03" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-move/up_move_03.uasset" SILENT=true
+[2024.04.02-14.20.13:575][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-move/up_move_03
+[2024.04.02-14.20.13:575][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_move_0389119173430D0851399AD88E3E34763B.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-move/up_move_03.uasset'
+[2024.04.02-14.20.13:576][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up-move/up_move_04" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-move/up_move_04.uasset" SILENT=true
+[2024.04.02-14.20.13:577][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-move/up_move_04
+[2024.04.02-14.20.13:577][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_move_0457CE31D2454BDD16438F0EB360166B0D.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-move/up_move_04.uasset'
+[2024.04.02-14.20.13:582][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-attack/down_attack_01_Sprite
+[2024.04.02-14.20.13:582][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack_01_SpriteC2058CA4464504C0D4F1F1BE69EB465B.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-attack/down_attack_01_Sprite.uasset'
+[2024.04.02-14.20.13:586][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-attack/down_attack_02_Sprite
+[2024.04.02-14.20.13:586][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack_02_SpriteE6FE48FF493FF51400FAC3A844C453A9.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-attack/down_attack_02_Sprite.uasset'
+[2024.04.02-14.20.13:590][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-attack/down_attack_03_Sprite
+[2024.04.02-14.20.13:590][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack_03_Sprite583CD1224FB44C217BBE959A4436D1F7.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-attack/down_attack_03_Sprite.uasset'
+[2024.04.02-14.20.13:594][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-attack/down_attack_04_Sprite
+[2024.04.02-14.20.13:594][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack_04_Sprite60CA6A6C47B013655E0DFD9DECADAD69.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-attack/down_attack_04_Sprite.uasset'
+[2024.04.02-14.20.13:597][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-attack/down_attack_05_Sprite
+[2024.04.02-14.20.13:597][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack_05_Sprite9FD12742404DF2930A00BA858277C60A.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-attack/down_attack_05_Sprite.uasset'
+[2024.04.02-14.20.13:601][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-attack/down_attack_06_Sprite
+[2024.04.02-14.20.13:601][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_attack_06_Sprite366688394539211612731896345A2BBE.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-attack/down_attack_06_Sprite.uasset'
+[2024.04.02-14.20.13:604][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-idle/down_idle_01_Sprite
+[2024.04.02-14.20.13:604][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_idle_01_Sprite8376C4404958E8E5C8BC5283B4F6E7FE.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-idle/down_idle_01_Sprite.uasset'
+[2024.04.02-14.20.13:608][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-move/down_move_01_Sprite
+[2024.04.02-14.20.13:608][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_move_01_Sprite429CC9FB4C7114D22B5FD8ABE2FDCE88.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-move/down_move_01_Sprite.uasset'
+[2024.04.02-14.20.13:611][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-move/down_move_02_Sprite
+[2024.04.02-14.20.13:611][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_move_02_Sprite1646F3824690458FBD1E4893714564EA.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-move/down_move_02_Sprite.uasset'
+[2024.04.02-14.20.13:614][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-move/down_move_03_Sprite
+[2024.04.02-14.20.13:614][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_move_03_Sprite1CC435B146584380F637DEBA2CFCC543.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-move/down_move_03_Sprite.uasset'
+[2024.04.02-14.20.13:618][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/down-move/down_move_04_Sprite
+[2024.04.02-14.20.13:618][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/down_move_04_Sprite80C85B764A05577BFB58599D7608C061.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/down-move/down_move_04_Sprite.uasset'
+[2024.04.02-14.20.13:621][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-attack/side_attack_01_Sprite
+[2024.04.02-14.20.13:621][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attack_01_Sprite0A9440C44D48C26BBD9BA4B3EEAA5688.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-attack/side_attack_01_Sprite.uasset'
+[2024.04.02-14.20.13:625][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-attack/side_attack_02_Sprite
+[2024.04.02-14.20.13:625][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attack_02_SpriteCA7394114AFB8D80D91E93A56674079A.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-attack/side_attack_02_Sprite.uasset'
+[2024.04.02-14.20.13:628][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-attack/side_attack_03_Sprite
+[2024.04.02-14.20.13:629][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attack_03_SpriteE05A436E42CF082AD02774B27A71F6FB.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-attack/side_attack_03_Sprite.uasset'
+[2024.04.02-14.20.13:632][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-attack/side_attack_04_Sprite
+[2024.04.02-14.20.13:632][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attack_04_Sprite310CDCAD4B606396EECC1983027AA9A2.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-attack/side_attack_04_Sprite.uasset'
+[2024.04.02-14.20.13:635][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-attack/side_attack_05_Sprite
+[2024.04.02-14.20.13:636][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attack_05_Sprite5FCB1FED41855E3FB74B2DB70B720029.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-attack/side_attack_05_Sprite.uasset'
+[2024.04.02-14.20.13:639][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-attack/side_attack_06_Sprite
+[2024.04.02-14.20.13:639][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_attack_06_SpriteFE060C3A43A5531699390DAFF3FB6F41.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-attack/side_attack_06_Sprite.uasset'
+[2024.04.02-14.20.13:642][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-idle/side_idle_01_Sprite
+[2024.04.02-14.20.13:642][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_idle_01_Sprite082EB4F04EC5C13908DBD7A88B84E6F3.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-idle/side_idle_01_Sprite.uasset'
+[2024.04.02-14.20.13:646][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-move/side_move_01_Sprite
+[2024.04.02-14.20.13:646][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_move_01_Sprite0D8C52A1425B07C60D3061B16CC92692.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-move/side_move_01_Sprite.uasset'
+[2024.04.02-14.20.13:649][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-move/side_move_02_Sprite
+[2024.04.02-14.20.13:649][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_move_02_Sprite441568A74A9D3965D9BFF9A52CB9F9C7.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-move/side_move_02_Sprite.uasset'
+[2024.04.02-14.20.13:653][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-move/side_move_03_Sprite
+[2024.04.02-14.20.13:653][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_move_03_Sprite677D65E04CD7A46E4DE800BCCEE24946.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-move/side_move_03_Sprite.uasset'
+[2024.04.02-14.20.13:656][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/side-move/side_move_04_Sprite
+[2024.04.02-14.20.13:656][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/side_move_04_Sprite5320C9DD491433DDDEF9509B74D8760C.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/side-move/side_move_04_Sprite.uasset'
+[2024.04.02-14.20.13:661][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-attack/up_attack_01_Sprite
+[2024.04.02-14.20.13:661][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attack_01_Sprite848349D2436CBBBEA5D6618916E5D895.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-attack/up_attack_01_Sprite.uasset'
+[2024.04.02-14.20.13:665][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-attack/up_attack_02_Sprite
+[2024.04.02-14.20.13:665][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attack_02_SpriteC6DC7A004317800C9495B799E82D3C85.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-attack/up_attack_02_Sprite.uasset'
+[2024.04.02-14.20.13:669][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-attack/up_attack_03_Sprite
+[2024.04.02-14.20.13:669][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attack_03_Sprite7BED02854CDD549C9EA87D892A70F8D0.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-attack/up_attack_03_Sprite.uasset'
+[2024.04.02-14.20.13:672][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-attack/up_attack_04_Sprite
+[2024.04.02-14.20.13:672][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attack_04_Sprite426C99A4420FD504E987B9AA7904B2B6.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-attack/up_attack_04_Sprite.uasset'
+[2024.04.02-14.20.13:676][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-attack/up_attack_05_Sprite
+[2024.04.02-14.20.13:676][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attack_05_SpriteDACCEAB3490C2EEDE6557CB17100911D.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-attack/up_attack_05_Sprite.uasset'
+[2024.04.02-14.20.13:679][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-attack/up_attack_06_Sprite
+[2024.04.02-14.20.13:679][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_attack_06_Sprite8B40107A454DB88B3BC03BBF7F020FD9.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-attack/up_attack_06_Sprite.uasset'
+[2024.04.02-14.20.13:681][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up-idle/up_idle_01_Sprite" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-idle/up_idle_01_Sprite.uasset" SILENT=true
+[2024.04.02-14.20.13:683][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-idle/up_idle_01_Sprite
+[2024.04.02-14.20.13:683][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_idle_01_Sprite34DC8BBC4B9C7119FB3E5895957582C9.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-idle/up_idle_01_Sprite.uasset'
+[2024.04.02-14.20.13:684][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up-move/up_move_01_Sprite" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-move/up_move_01_Sprite.uasset" SILENT=true
+[2024.04.02-14.20.13:686][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-move/up_move_01_Sprite
+[2024.04.02-14.20.13:686][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_move_01_Sprite267E238448364660F55912AB3E734D16.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-move/up_move_01_Sprite.uasset'
+[2024.04.02-14.20.13:688][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up-move/up_move_02_Sprite" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-move/up_move_02_Sprite.uasset" SILENT=true
+[2024.04.02-14.20.13:690][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-move/up_move_02_Sprite
+[2024.04.02-14.20.13:690][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_move_02_Sprite5432083D4C6C4FBBC97CDA9109E32FF5.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-move/up_move_02_Sprite.uasset'
+[2024.04.02-14.20.13:691][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up-move/up_move_03_Sprite" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-move/up_move_03_Sprite.uasset" SILENT=true
+[2024.04.02-14.20.13:693][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-move/up_move_03_Sprite
+[2024.04.02-14.20.13:693][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_move_03_Sprite2790852A44BD0A1BD0A713BD58F9B265.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-move/up_move_03_Sprite.uasset'
+[2024.04.02-14.20.13:695][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Skeleton/up-move/up_move_04_Sprite" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-move/up_move_04_Sprite.uasset" SILENT=true
+[2024.04.02-14.20.13:696][ 88]LogSavePackage: Moving output files for package: /Game/Sprite/Skeleton/up-move/up_move_04_Sprite
+[2024.04.02-14.20.13:697][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/up_move_04_Sprite4C890FE14F6AA86F755336BC73B53FE6.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Sprite/Skeleton/up-move/up_move_04_Sprite.uasset'
+[2024.04.02-14.20.13:697][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Monster" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Monster.uasset" SILENT=true
+[2024.04.02-14.20.13:701][ 88]LogSavePackage: Moving output files for package: /Game/BluePrint/BP_Monster
+[2024.04.02-14.20.13:702][ 88]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Monster0CF0321D489953E89D6D7AAC30F31D1A.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/BP_Monster.uasset'
+[2024.04.02-14.20.13:721][ 88]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/down-attack/down_attack_06_Sprite.down_attack_06_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/down-attack/down_attack_05_Sprite.down_attack_05_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/down-attack/down_attack_04_Sprite.down_attack_04_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/down-attack/down_attack_03_Sprite.down_attack_03_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/side-attack/side_attack_01_Sprite.side_attack_01_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: World /Game/Maps/MainMap.MainMap 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/down-attack/down_attack_02_Sprite.down_attack_02_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/down-move/down_move_04_Sprite.down_move_04_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/down-move/down_move_03_Sprite.down_move_03_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/down-move/down_move_02_Sprite.down_move_02_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/down-move/down_move_01_Sprite.down_move_01_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/down-idle/down_idle_01_Sprite.down_idle_01_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/down-attack/down_attack_06.down_attack_06 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/down-attack/down_attack_05.down_attack_05 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/down-attack/down_attack_04.down_attack_04 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/down-attack/down_attack_03.down_attack_03 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/down-attack/down_attack_02.down_attack_02 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/down-attack/down_attack_01_Sprite.down_attack_01_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/up-move/up_move_04.up_move_04 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/up-move/up_move_03.up_move_03 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/up-move/up_move_02.up_move_02 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/up-move/up_move_01.up_move_01 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/down-attack/down_attack_01.down_attack_01 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/down-idle/down_idle_01.down_idle_01 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/side-attack/side_attack_03_Sprite.side_attack_03_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/side-attack/side_attack_02_Sprite.side_attack_02_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/up-idle/up_idle_01.up_idle_01 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/up-attack/up_attack_06.up_attack_06 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/up-attack/up_attack_05.up_attack_05 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/up-attack/up_attack_04.up_attack_04 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/up-attack/up_attack_03.up_attack_03 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/up-attack/up_attack_02.up_attack_02 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/up-attack/up_attack_01.up_attack_01 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/side-move/side_move_04.side_move_04 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/side-move/side_move_03.side_move_03 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/side-move/side_move_02.side_move_02 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/side-move/side_move_01.side_move_01 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/side-idle/side_idle_01.side_idle_01 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/side-attack/side_attack_06.side_attack_06 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/side-attack/side_attack_05.side_attack_05 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/side-attack/side_attack_04.side_attack_04 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/side-attack/side_attack_03.side_attack_03 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/side-attack/side_attack_02.side_attack_02 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/side-attack/side_attack_01.side_attack_01 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/down-move/down_move_04.down_move_04 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/down-move/down_move_03.down_move_03 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/down-move/down_move_02.down_move_02 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: Texture2D /Game/Sprite/Skeleton/down-move/down_move_01.down_move_01 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/side-attack/side_attack_04_Sprite.side_attack_04_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/side-attack/side_attack_05_Sprite.side_attack_05_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/side-attack/side_attack_06_Sprite.side_attack_06_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/side-idle/side_idle_01_Sprite.side_idle_01_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/side-move/side_move_01_Sprite.side_move_01_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/side-move/side_move_02_Sprite.side_move_02_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:722][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/side-move/side_move_03_Sprite.side_move_03_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:723][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/side-move/side_move_04_Sprite.side_move_04_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:723][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/up-attack/up_attack_01_Sprite.up_attack_01_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:723][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/up-attack/up_attack_02_Sprite.up_attack_02_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:723][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/up-attack/up_attack_03_Sprite.up_attack_03_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:723][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/up-attack/up_attack_04_Sprite.up_attack_04_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:723][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/up-attack/up_attack_05_Sprite.up_attack_05_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:723][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/up-attack/up_attack_06_Sprite.up_attack_06_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:723][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/up-idle/up_idle_01_Sprite.up_idle_01_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:723][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/up-move/up_move_01_Sprite.up_move_01_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:723][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/up-move/up_move_02_Sprite.up_move_02_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:723][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/up-move/up_move_03_Sprite.up_move_03_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:723][ 88]LogContentValidation: Display: PaperSprite /Game/Sprite/Skeleton/up-move/up_move_04_Sprite.up_move_04_Sprite 유효성 검사 중
+[2024.04.02-14.20.13:723][ 88]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_Monster.BP_Monster 유효성 검사 중
