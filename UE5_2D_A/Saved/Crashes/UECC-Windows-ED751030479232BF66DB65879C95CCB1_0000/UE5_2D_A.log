@@ -1,0 +1,1249 @@
+﻿Log file open, 05/01/24 02:33:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=82500)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UE5_2D_A
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/UnrealProject/UE5/UE5_2D_A/UE5_2D_A.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.4291] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 5600X 6-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="8e078cc3459e72e35be141a336ec0c74"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.311283
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-ED751030479232BF66DB65879C95CCB1
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.06 seconds
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogConfig: Display: Loading Linux ini files took 0.07 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.08 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.4291] (), CPU: AMD Ryzen 5 5600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2024.04.30-17.33.29:024][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2024.04.30-17.33.29:024][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2024.04.30-17.33.29:024][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2024.04.30-17.33.29:025][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2024.04.30-17.33.29:028][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.04.30-17.33.29:028][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.04.30-17.33.29:028][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.04.30-17.33.29:028][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.04.30-17.33.29:028][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.04.30-17.33.29:028][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.04.30-17.33.29:028][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.04.30-17.33.29:028][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.04.30-17.33.29:028][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.04.30-17.33.29:028][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.04.30-17.33.29:028][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2024.04.30-17.33.29:058][  0]LogD3D12RHI: Aftermath initialized
+[2024.04.30-17.33.29:058][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2024.04.30-17.33.29:319][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 (Max supported Feature Level 12_1, shader model 6.6)
+[2024.04.30-17.33.29:319][  0]LogD3D12RHI: Adapter has 5968MB of dedicated video memory, 0MB of dedicated system memory, and 8147MB of shared system memory, 1 output[s]
+[2024.04.30-17.33.29:331][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2024.04.30-17.33.29:331][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8147MB of shared system memory, 0 output[s]
+[2024.04.30-17.33.29:331][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2024.04.30-17.33.29:331][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.04.30-17.33.29:331][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2024.04.30-17.33.29:331][  0]LogHAL: Display: Platform has ~ 16 GB [17087586304 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.04.30-17.33.29:332][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2024.04.30-17.33.29:332][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.04.30-17.33.29:332][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.04.30-17.33.29:332][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2024.04.30-17.33.29:332][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/UnrealProject/UE5/UE5_2D_A/Saved/Config/WindowsEditor/Editor.ini]
+[2024.04.30-17.33.29:332][  0]LogInit: Computer: DESKTOP-0EJ5V22
+[2024.04.30-17.33.29:332][  0]LogInit: User: FOR
+[2024.04.30-17.33.29:332][  0]LogInit: CPU Page size=4096, Cores=6
+[2024.04.30-17.33.29:332][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.04.30-17.33.29:332][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2024.04.30-17.33.29:332][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2024.04.30-17.33.29:332][  0]LogMemory: Process Physical Memory: 272.22 MB used, 283.62 MB peak
+[2024.04.30-17.33.29:332][  0]LogMemory: Process Virtual Memory: 229.72 MB used, 233.42 MB peak
+[2024.04.30-17.33.29:332][  0]LogMemory: Physical Memory: 9290.73 MB used,  7005.26 MB free, 16295.99 MB total
+[2024.04.30-17.33.29:332][  0]LogMemory: Virtual Memory: 14988.24 MB used,  7451.75 MB free, 22439.99 MB total
+[2024.04.30-17.33.29:332][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2024.04.30-17.33.29:343][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.04.30-17.33.29:369][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2024.04.30-17.33.29:370][  0]LogInit: Using OS detected language (ko-KR).
+[2024.04.30-17.33.29:370][  0]LogInit: Using OS detected locale (ko-KR).
+[2024.04.30-17.33.29:381][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so 'ko' will be used for the language.
+[2024.04.30-17.33.29:474][  0]LogInit: Setting process to per monitor DPI aware
+[2024.04.30-17.33.29:511][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2024.04.30-17.33.29:511][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2024.04.30-17.33.29:511][  0]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2024.04.30-17.33.29:526][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.04.30-17.33.29:526][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.04.30-17.33.29:731][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2024.04.30-17.33.29:738][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2024.04.30-17.33.29:738][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2024.04.30-17.33.29:833][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2024.04.30-17.33.29:833][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2024.04.30-17.33.29:833][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2024.04.30-17.33.29:833][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2024.04.30-17.33.29:833][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2024.04.30-17.33.29:833][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2024.04.30-17.33.29:833][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2024.04.30-17.33.29:833][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2024.04.30-17.33.29:833][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2024.04.30-17.33.29:833][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2024.04.30-17.33.29:833][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2024.04.30-17.33.29:833][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2024.04.30-17.33.29:833][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2024.04.30-17.33.29:833][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2024.04.30-17.33.29:833][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2024.04.30-17.33.29:833][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2024.04.30-17.33.29:874][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2024.04.30-17.33.29:880][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2024.04.30-17.33.29:892][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2024.04.30-17.33.29:909][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2024.04.30-17.33.29:909][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2024.04.30-17.33.29:977][  0]LogD3D12RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2024.04.30-17.33.29:977][  0]LogWindows: Attached monitors:
+[2024.04.30-17.33.29:977][  0]LogWindows:     resolution: 3440x1440, work area: (0, 0) -> (3440, 1440), device: '\\.\DISPLAY1' [PRIMARY]
+[2024.04.30-17.33.29:977][  0]LogWindows: Found 1 attached monitors.
+[2024.04.30-17.33.29:977][  0]LogWindows: EnumDisplayDevices:
+[2024.04.30-17.33.29:978][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1), name: '\\.\DISPLAY1'
+[2024.04.30-17.33.29:978][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY2'
+[2024.04.30-17.33.29:979][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY3'
+[2024.04.30-17.33.29:979][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2024.04.30-17.33.29:980][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2024.04.30-17.33.29:980][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2024.04.30-17.33.29:980][  0]LogD3D12RHI:   Driver Version: 536.23 (internal:31.0.15.3623, unified:536.23)
+[2024.04.30-17.33.29:980][  0]LogD3D12RHI:      Driver Date: 6-8-2023
+[2024.04.30-17.33.29:980][  0]LogRHI: Texture pool is 3276 MB (70% of 4680 MB)
+[2024.04.30-17.33.29:980][  0]LogD3D12RHI: Async texture creation enabled
+[2024.04.30-17.33.29:980][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2024.04.30-17.33.29:991][  0]LogRHI: GeForceNow SDK initialized: 0
+[2024.04.30-17.33.30:001][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/UnrealProject/UE5/UE5_2D_A/UE5_2D_A.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/UnrealProject/UE5/UE5_2D_A/Intermediate/TurnkeyReport_0.log" -log="C:/UnrealProject/UE5/UE5_2D_A/Intermediate/TurnkeyLog_0.log" -project="C:/UnrealProject/UE5/UE5_2D_A/UE5_2D_A.uproject"  -platform=all'
+[2024.04.30-17.33.30:001][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/UnrealProject/UE5/UE5_2D_A/UE5_2D_A.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/UnrealProject/UE5/UE5_2D_A/Intermediate/TurnkeyReport_0.log" -log="C:/UnrealProject/UE5/UE5_2D_A/Intermediate/TurnkeyLog_0.log" -project="C:/UnrealProject/UE5/UE5_2D_A/UE5_2D_A.uproject"  -platform=all" ]
+[2024.04.30-17.33.30:048][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2024.04.30-17.33.30:062][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2024.04.30-17.33.30:062][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2024.04.30-17.33.30:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.04.30-17.33.30:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.04.30-17.33.30:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.04.30-17.33.30:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.04.30-17.33.30:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.04.30-17.33.30:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.04.30-17.33.30:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.04.30-17.33.30:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.04.30-17.33.30:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.04.30-17.33.30:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.04.30-17.33.30:109][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2024.04.30-17.33.30:109][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2024.04.30-17.33.30:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.04.30-17.33.30:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.04.30-17.33.30:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.04.30-17.33.30:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2024.04.30-17.33.30:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.04.30-17.33.30:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.04.30-17.33.30:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2024.04.30-17.33.30:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2024.04.30-17.33.30:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2024.04.30-17.33.30:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.04.30-17.33.30:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.04.30-17.33.30:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.04.30-17.33.30:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2024.04.30-17.33.30:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.04.30-17.33.30:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.04.30-17.33.30:140][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2024.04.30-17.33.30:153][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.04.30-17.33.30:159][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2024.04.30-17.33.30:159][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2024.04.30-17.33.30:159][  0]LogTargetPlatformManager:   ADPCM
+[2024.04.30-17.33.30:159][  0]LogTargetPlatformManager:   PCM
+[2024.04.30-17.33.30:164][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2024.04.30-17.33.30:164][  0]LogTargetPlatformManager:   BINKA
+[2024.04.30-17.33.30:164][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2024.04.30-17.33.30:164][  0]LogTargetPlatformManager:   OGG
+[2024.04.30-17.33.30:164][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2024.04.30-17.33.30:164][  0]LogTargetPlatformManager:   OPUS
+[2024.04.30-17.33.30:218][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2024.04.30-17.33.30:228][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2024.04.30-17.33.30:228][  0]LogTargetPlatformManager:   SF_METAL
+[2024.04.30-17.33.30:228][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2024.04.30-17.33.30:228][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2024.04.30-17.33.30:228][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2024.04.30-17.33.30:228][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2024.04.30-17.33.30:228][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2024.04.30-17.33.30:228][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2024.04.30-17.33.30:228][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2024.04.30-17.33.30:228][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2024.04.30-17.33.30:228][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2024.04.30-17.33.30:228][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2024.04.30-17.33.30:228][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2024.04.30-17.33.30:228][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2024.04.30-17.33.30:228][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2024.04.30-17.33.30:228][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2024.04.30-17.33.30:233][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2024.04.30-17.33.30:233][  0]LogTargetPlatformManager:   VVM_1_0
+[2024.04.30-17.33.30:233][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2024.04.30-17.33.30:233][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2024.04.30-17.33.30:233][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2024.04.30-17.33.30:233][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2024.04.30-17.33.30:233][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2024.04.30-17.33.30:233][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.04.30-17.33.30:233][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../UnrealProject/UE5/UE5_2D_A/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2024.04.30-17.33.30:235][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.04.30-17.33.30:235][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../UnrealProject/UE5/UE5_2D_A/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2024.04.30-17.33.30:240][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.04.30-17.33.30:243][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UnrealProject/UE5/UE5_2D_A/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.04.30-17.33.30:243][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2024.04.30-17.33.30:243][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UnrealProject/UE5/UE5_2D_A/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.04.30-17.33.30:243][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2024.04.30-17.33.30:260][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2024.04.30-17.33.30:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.04.30-17.33.30:260][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2024.04.30-17.33.30:272][  0]LogDerivedDataCache: Speed tests for C:/Users/FOR/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2024.04.30-17.33.30:272][  0]LogDerivedDataCache: Display: Performance to C:/Users/FOR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.07ms. RandomReadSpeed=567.96MBs, RandomWriteSpeed=95.01MBs. Assigned SpeedClass 'Local'
+[2024.04.30-17.33.30:273][  0]LogDerivedDataCache: Using Local data cache path C:/Users/FOR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.04.30-17.33.30:273][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.04.30-17.33.30:273][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2024.04.30-17.33.30:281][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2024.04.30-17.33.30:281][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.04.30-17.33.30:281][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../UnrealProject/UE5/UE5_2D_A/Intermediate/Shaders/WorkingDirectory/71960/).
+[2024.04.30-17.33.30:281][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/FOR/AppData/Local/Temp/UnrealShaderWorkingDir/C85AF604465D8BDA18C1BE87B2843E16/'.
+[2024.04.30-17.33.30:281][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.04.30-17.33.30:281][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2024.04.30-17.33.31:463][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2024.04.30-17.33.31:463][  0]LogSlate: Using FreeType 2.10.0
+[2024.04.30-17.33.31:464][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.04.30-17.33.31:504][  0]LogAssetRegistry: FAssetRegistry took 0.0146 seconds to start up
+[2024.04.30-17.33.31:511][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2024.04.30-17.33.31:655][  0]LogSerialization: UsePackageTrailer: 'false'
+[2024.04.30-17.33.31:656][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2024.04.30-17.33.32:098][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.04.30-17.33.32:099][  0]LogDeviceProfileManager: Active device profile: [000004480C753B80][00000448041B5000 50] WindowsEditor
+[2024.04.30-17.33.32:099][  0]LogDeviceProfileManager: Profiles: [000004480C753640][00000448041B2800 50] Windows, [000004480C753B80][00000448041B5000 50] WindowsEditor, [000004480C751F80][0000044804137800 50] WindowsServer, [000004480C750380][000004480405C800 50] WindowsClient, [000004480C752680][00000448041B0000 50] IOS, [000004480C751340][00000447F4917800 50] iPadAir2, [000004480C754EC0][000004480C732800 50] IPadPro, [000004480C755240][000004480C730000 50] iPadAir3, [000004480C750C40][000004480C737800 50] iPadAir4, [000004480C750E00][000004480C73A000 50] iPadMini4, [000004480C750000][000004480C73C800 50] iPadMini5, [000004480C7508C0][0000044805AAC800 50] iPadMini6, [000004480C757E00][000004480C7C5000 50] iPhone6S, [000004480C758180][000004480C7C2800 50] iPhone7, [000004480C758500][000004480C7C0000 50] iPodTouch7, [000004480C751A40][000004480C7CA000 50] iPhone6SPlus, [000004480C757C40][000004480C7CC800 50] iPhone7Plus, [000004480C7578C0][000004480C735000 50] iPhoneSE, [000004480C7539C0][000004480C7E0000 50] iPhone8, [000004480C7586C0][000004480C7E5000 50] iPhone8Plus, [000004480C757FC0][000004480C7E7800 50] iPhoneX, [000004480C755CC0][000004480C7EA000 50] iPhoneXS, [000004480C7540C0][000004480C7EC800 50] iPhoneXSMax, [000004480C752840][000004480C7C7800 50] iPhoneXR, [000004480C757540][000004480C7F0000 50] iPhone11, [000004480C753480][000004480C7F5000 50] iPhone11Pro, [000004480C754B40][000004480C7F7800 50] iPhone11ProMax, [000004480C752A00][000004480C7FA000 50] iPhoneSE2, [000004480C757380][000004480C7FC800 50] iPhone12Mini, [000004480C750700][000004480C7E2800 50] iPhone12, [000004480C755080][000004480C780000 50] iPhone12Pro, [000004480C751880][000004480C785000 50] iPhone12ProMax, [000004480C756C80][000004480C787800 50] iPhone13Mini, [000004480C752D80][000004480C78A000 50] iPhone13, [000004480C752300][000004480C78C800 50] iPhone13Pro, [000004480C754D00][000004480C7F2800 50] iPhone13ProMax, [000004480C756E40][000004480C790000 50] iPadPro105, [000004480C755E80][000004480C795000 50] iPadPro129, [000004480C758C00][000004480C797800 50] iPadPro97, [000004480C756900][000004480C79A000 50] iPadPro2_129, [000004480C755400][000004480C79C800 50] iPad5, [000004480C750A80][000004480C782800 50] iPad6, [000004480C758A40][000004480C7A0000 50] iPad7, [000004480C754600][000004480C7A5000 50] iPad8, [000004480C757000][000004480C7A7800 50] iPad9, [000004480C753F00][000004480C7AA000 50] iPadPro11, [000004480C752BC0][000004480C7AC800 50] iPadPro2_11, [000004480C754280][000004480C792800 50] iPadPro3_11, [000004480C756040][000004480E010000 50] iPadPro3_129, [000004480C7516C0][000004480E015000 50] iPadPro4_129, [000004480C756200][000004480E017800 50] iPadPro5_129, [000004480C750FC0][000004480E01A000 50] AppleTV, [000004480C751500][000004480E01C800 50] AppleTV4K, [000004480C755780][000004480C7A2800 50] TVOS, [000004480C75A2C0][000004480E022800 50] Mac, [000004480C75A640][000004480E020000 50] MacEditor, [000004480C754440][000004480E027800 50] MacClient, [000004480C75A100][000004480E02A000 50] MacServer, [000004480C75A480][000004480E012800 50] Linux, [000004480C75A800][000004480E02C800 50] LinuxEditor, [000004480C756580][000004480E030000 50] LinuxArm64Editor, [000004480C751180][000004480E035000 50] LinuxArm64, [000004480C75AB80][000004480E037800 50] LinuxClient, [000004480C751DC0][000004480E03A000 50] LinuxArm64Client, [000004480C753100][000004480E03C800 50] LinuxServer, [000004480C757700][000004480E025000 50] LinuxArm64Server, [000004480C7555C0][000004480E040000 50] Android, [000004480C755940][000004480E045000 50] Android_Preview_OpenGL, [000004480C752140][000004480E047800 50] Android_Preview_Vulkan, [000004480C756740][000004480E04A000 50] Android_Low, [000004480C758340][000004480E04C800 50] Android_Mid, [000004480C759BC0][000004480E032800 50] Android_High, [000004480C752F40][000004480E050000 50] Android_Default, [000004480C7563C0][000004480E055000 50] Android_Adreno4xx, [000004480C7501C0][000004480E057800 50] Android_Adreno5xx_Low, [000004480C759840][000004480E05A000 50] Android_Adreno5xx, [000004480C75A9C0][000004480E05C800 50] Android_Adreno6xx, [000004480C754980][000004480E042800 50] Android_Adreno6xx_Vulkan, [000004480C7547C0][000004480E060000 50] Android_Adreno7xx, [000004480C751C00][000004480E065000 50] Android_Adreno7xx_Vulkan, [000004480C75B7C0][000004480E067800 50] Android_Mali_T6xx, [000004480C75AD40][000004480E06A000 50] Android_Mali_T7xx, [000004480C75AF00][000004480E06C800 50] Android_Mali_T8xx, [000004480C7571C0][000004480E052800 50] Android_Mali_G71, [000004480C75B980][000004480E070000 50] Android_Mali_G72, [000004480C756AC0][000004480E075000 50] Android_Mali_G72_Vulkan, [000004480C759140][000004480E077800 50] Android_Mali_G76, [000004480C7532C0][000004480E07A000 50] Android_Mali_G76_Vulkan, [000004480C750540][000004480E07C800 50] Android_Mali_G77, [000004480C75C780][000004480E062800 50] Android_Mali_G77_Vulkan, [000004480C75BD00][000004480E080000 50] Android_Mali_G78, [000004480C75BEC0][000004480E085000 50] Android_Mali_G78_Vulkan, [000004480C755B00][000004480E087800 50] Android_Mali_G710, [000004480C75C940][000004480E08A000 50] Android_Mali_G710_Vulkan, [000004480C759D80][000004480E08C800 50] Android_Xclipse_920, [000004480C759A00][000004480E072800 50] Android_Xclipse_920_Vulkan, [000004480C759F40][000004480E090000 50] Android_Vulkan_SM5, [000004480C75B0C0][000004480E095000 50] Android_PowerVR_G6xxx, [000004480C75D740][000004480E097800 50] Android_PowerVR_GT7xxx, [000004480C75CE80][000004480E09A000 50] Android_PowerVR_GE8xxx, [000004480C75C240][000004480E09C800 50] Android_PowerVR_GM9xxx, [000004480C758880][000004480E082800 50] Android_PowerVR_GM9xxx_Vulkan, [000004480C758F80][000004480E0A0000 50] Android_TegraK1, [000004480C75DAC0][000004480E0A5000 50] Android_Unknown_Vulkan, [000004480C75D040][000004480E0A7800 50] Oculus_Quest, [000004480C75B280][000004480E0AA000 50] Oculus_Quest2, [000004480C75E700][000004480E0AC800 50] HoloLens, 
+[2024.04.30-17.33.32:099][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2024.04.30-17.33.32:100][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2024.04.30-17.33.32:100][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2024.04.30-17.33.32:101][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2024.04.30-17.33.32:101][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2024.04.30-17.33.32:101][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2024.04.30-17.33.32:126][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2024.04.30-17.33.32:281][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.04.30-17.33.32:281][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.04.30-17.33.32:281][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.04.30-17.33.32:281][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.04.30-17.33.32:281][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.04.30-17.33.32:304][  0]LogNetVersion: UE5_2D_A 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3393806786)
+[2024.04.30-17.33.32:441][  0]LogSlate: Border
+[2024.04.30-17.33.32:441][  0]LogSlate: BreadcrumbButton
+[2024.04.30-17.33.32:441][  0]LogSlate: Default
+[2024.04.30-17.33.32:441][  0]LogSlate: Icons.Save
+[2024.04.30-17.33.32:441][  0]LogSlate: Icons.Toolbar.Settings
+[2024.04.30-17.33.32:441][  0]LogSlate: ListView
+[2024.04.30-17.33.32:441][  0]LogSlate: SoftwareCursor_CardinalCross
+[2024.04.30-17.33.32:441][  0]LogSlate: SoftwareCursor_Grab
+[2024.04.30-17.33.32:441][  0]LogSlate: TableView.DarkRow
+[2024.04.30-17.33.32:441][  0]LogSlate: TableView.Row
+[2024.04.30-17.33.32:441][  0]LogSlate: TreeView
+[2024.04.30-17.33.32:617][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.04.30-17.33.32:642][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.04.30-17.33.32:642][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.04.30-17.33.32:735][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2024.04.30-17.33.32:735][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2024.04.30-17.33.32:735][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.04.30-17.33.33:148][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: BD2CF4984CDFF03A7D8707A5B58926A3 | Instance: 707F14EE466CB871470641921F7E60A0 (DESKTOP-0EJ5V22-71960).
+[2024.04.30-17.33.33:184][  0]LogPython: Using Python 3.9.7
+[2024.04.30-17.33.33:911][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.04.30-17.33.33:922][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.04.30-17.33.34:080][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.04.30-17.33.34:225][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.04.30-17.33.34:311][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.04.30-17.33.34:329][  0]LogUProjectInfo: Found projects:
+[2024.04.30-17.33.34:468][  0]LogOpenImageDenoise: OIDN starting up
+[2024.04.30-17.33.34:531][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.04.30-17.33.34:560][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.04.30-17.33.34:560][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.04.30-17.33.34:667][  0]LogCollectionManager: Loaded 0 collections in 0.000929 seconds
+[2024.04.30-17.33.34:764][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProject/UE5/UE5_2D_A/Saved/Collections/' took 0.00s
+[2024.04.30-17.33.34:764][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProject/UE5/UE5_2D_A/Content/Developers/FOR/Collections/' took 0.00s
+[2024.04.30-17.33.34:764][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProject/UE5/UE5_2D_A/Content/Collections/' took 0.00s
+[2024.04.30-17.33.35:046][  0]LogEngine: Initializing Engine...
+[2024.04.30-17.33.35:059][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2024.04.30-17.33.35:061][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.04.30-17.33.35:270][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.04.30-17.33.35:270][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.30-17.33.35:281][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-17.33.35:306][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.04.30-17.33.35:307][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.04.30-17.33.35:328][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.04.30-17.33.35:329][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.04.30-17.33.35:329][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.04.30-17.33.35:329][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.04.30-17.33.35:329][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.04.30-17.33.35:329][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.30-17.33.35:329][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.30-17.33.35:329][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.30-17.33.35:329][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.30-17.33.35:329][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.30-17.33.35:329][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.30-17.33.35:329][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.30-17.33.35:329][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.30-17.33.35:329][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.30-17.33.35:330][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.30-17.33.35:330][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.30-17.33.35:340][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.30-17.33.35:426][  0]LogAudioMixer: Display: Using Audio Hardware Device LC34G55T(NVIDIA High Definition Audio)
+[2024.04.30-17.33.35:427][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.30-17.33.35:430][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.30-17.33.35:430][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.30-17.33.35:430][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.04.30-17.33.35:430][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.30-17.33.35:432][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.30-17.33.35:432][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.04.30-17.33.35:432][  0]LogInit: FAudioDevice initialized.
+[2024.04.30-17.33.35:432][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.04.30-17.33.35:432][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.04.30-17.33.35:432][  0]LogInit: Texture streaming: Enabled
+[2024.04.30-17.33.35:465][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2024.04.30-17.33.35:474][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.04.30-17.33.35:494][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.04.30-17.33.35:502][  0]LogLiveCoding: Display: Starting LiveCoding
+[2024.04.30-17.33.35:502][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2024.04.30-17.33.37:603][  0]LogLiveCoding: Display: First instance in process group "UE_UE5_2D_A_0x25b7a6b3", spawning console
+[2024.04.30-17.33.37:603][  0]LogLiveCoding: Display: Waiting for server
+[2024.04.30-17.33.37:603][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.04.30-17.33.37:641][  0]LogInit: Transaction tracking system initialized
+[2024.04.30-17.33.37:708][  0]BlueprintLog: New page: 에디터 로드
+[2024.04.30-17.33.37:889][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2024.04.30-17.33.37:932][  0]TimingProfiler: Initialize
+[2024.04.30-17.33.37:932][  0]TimingProfiler: OnSessionChanged
+[2024.04.30-17.33.37:932][  0]LoadingProfiler: Initialize
+[2024.04.30-17.33.37:932][  0]LoadingProfiler: OnSessionChanged
+[2024.04.30-17.33.37:932][  0]NetworkingProfiler: Initialize
+[2024.04.30-17.33.37:932][  0]NetworkingProfiler: OnSessionChanged
+[2024.04.30-17.33.37:932][  0]MemoryProfiler: Initialize
+[2024.04.30-17.33.37:932][  0]MemoryProfiler: OnSessionChanged
+[2024.04.30-17.33.38:616][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProject/UE5/UE5_2D_A/Content/' took 0.01s
+[2024.04.30-17.33.38:616][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.04.30-17.33.38:697][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.04.30-17.33.38:699][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.04.30-17.33.38:699][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.655
+[2024.04.30-17.33.38:699][  0]Cmd: MAP LOAD FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/Maps/MainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.30-17.33.38:700][  0]LightingResults: New page: 라이팅 빌드
+[2024.04.30-17.33.38:705][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-17.33.38:705][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-17.33.38:705][  0]MapCheck: New page: 맵 체크
+[2024.04.30-17.33.38:705][  0]LightingResults: New page: 라이팅 빌드
+[2024.04.30-17.33.38:710][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.30-17.33.38:713][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.04.30-17.33.39:196][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMap'.
+[2024.04.30-17.33.39:196][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.30-17.33.39:197][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-17.33.39:197][  0]LogAIModule: Creating AISystem for world MainMap
+[2024.04.30-17.33.39:210][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.30-17.33.39:217][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.04.30-17.33.39:217][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.30-17.33.39:217][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.181ms.
+[2024.04.30-17.33.39:217][  0]LogFileHelpers: Loading map 'MainMap' took 0.518
+[2024.04.30-17.33.39:231][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.187
+[2024.04.30-17.33.39:231][  0]LogShaderCompilers: Display: ================================================
+[2024.04.30-17.33.39:231][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.30-17.33.39:231][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.04.30-17.33.39:232][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.04.30-17.33.39:232][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2024.04.30-17.33.39:232][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.30-17.33.39:232][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.30-17.33.39:232][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.04.30-17.33.39:232][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.30-17.33.39:232][  0]LogShaderCompilers: Display: ================================================
+[2024.04.30-17.33.39:356][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-17.33.39:361][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-17.33.39:364][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-17.33.39:368][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.30-17.33.39:497][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.04.30-17.33.39:497][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.30-17.33.39:504][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.04.30-17.33.39:504][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.30-17.33.39:510][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.04.30-17.33.39:510][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.30-17.33.39:516][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.04.30-17.33.39:516][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.30-17.33.39:528][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.04.30-17.33.39:528][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.30-17.33.39:533][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.04.30-17.33.39:533][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.30-17.33.39:538][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.04.30-17.33.39:538][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.30-17.33.39:543][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.04.30-17.33.39:543][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.30-17.33.39:547][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.04.30-17.33.39:547][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.30-17.33.39:552][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.04.30-17.33.39:552][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.04.30-17.33.39:552][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2024.04.30-17.33.39:840][  0]LogStall: Startup...
+[2024.04.30-17.33.39:842][  0]LogStall: Startup complete.
+[2024.04.30-17.33.39:853][  0]LogLoad: (Engine Initialization) Total time: 12.81 seconds
+[2024.04.30-17.33.39:853][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.04.30-17.33.39:890][  0]LogAssetRegistry: Asset discovery search completed in 8.3879 seconds
+[2024.04.30-17.33.39:902][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2024.04.30-17.33.39:924][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.04.30-17.33.39:963][  0]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.30-17.33.39:966][  0]LogSlate: Took 0.001839 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2024.04.30-17.33.39:969][  0]LogSlate: Took 0.002257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2024.04.30-17.33.39:969][  0]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.04.30-17.33.39:978][  0]LogSlate: Took 0.005786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.30-17.33.39:984][  0]LogSlate: Took 0.005242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.30-17.33.39:991][  0]LogSlate: Took 0.005082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.04.30-17.33.39:998][  0]LogSlate: Took 0.007152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2024.04.30-17.33.40:097][  0]LogViewport: Scene viewport resized to 1068x765, mode Windowed.
+[2024.04.30-17.33.40:166][  0]LogSlate: Took 0.004930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.30-17.34.43:855][771]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.04.30-17.34.50:936][771]LogSlate: Window '새 위젯 블루프린트의 루트 위젯 선택' being destroyed
+[2024.04.30-17.34.50:941][771]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.04.30-17.34.50:946][771]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.04.30-17.34.50:968][773]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.04.30-17.35.14:805][632]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WizetBP_HP
+[2024.04.30-17.35.14:816][632]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.04.30-17.35.15:156][672]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BluePrint/UI/WizetBP_HP.WizetBP_HP
+[2024.04.30-17.35.15:157][672]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-17.35.15:163][672]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-17.35.15:169][672]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+스페이스 바]
+[2024.04.30-17.35.16:384][672]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2024.04.30-17.35.16:384][672]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2024.04.30-17.35.16:620][672]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.30-17.35.16:651][672]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''Foreground' 슬레이트 컬러를 찾을 수 없습니다.'
+[2024.04.30-17.35.31:176][ 83]LogDerivedDataCache: C:/Users/FOR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.902 and deleted 789 file(s) with total size 15 MiB.
+[2024.04.30-17.37.26:167][ 44]LogSlate: Window '색 선택 툴' being destroyed
+[2024.04.30-17.37.35:254][ 15]LogSlate: Window '색 선택 툴' being destroyed
+[2024.04.30-17.38.26:155][480]BlueprintLog: New page: WizetBP_HP 컴파일
+[2024.04.30-17.38.26:217][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.30-17.38.26:518][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/UI/WizetBP_HP" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/UI/WizetBP_HP.uasset" SILENT=true
+[2024.04.30-17.38.26:527][500]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.008245 seconds
+[2024.04.30-17.38.26:535][500]LogSavePackage: Moving output files for package: /Game/BluePrint/UI/WizetBP_HP
+[2024.04.30-17.38.26:535][500]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/WizetBP_HP99C178124302F405AE8D3FA93A078F5A.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/UI/WizetBP_HP.uasset'
+[2024.04.30-17.38.26:548][500]AssetCheck: New page: 에셋 저장:  WizetBP_HP
+[2024.04.30-17.38.26:548][500]LogContentValidation: Display: WidgetBlueprint /Game/BluePrint/UI/WizetBP_HP.WizetBP_HP 유효성 검사 중
+[2024.04.30-17.38.47:303][573]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/BP_Creature.BP_Creature
+[2024.04.30-17.38.47:304][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-17.38.50:814][739]LogViewport: Scene viewport resized to 880x659, mode Windowed.
+[2024.04.30-17.42.03:807][433]LogUObjectGlobals: Warning: 'Class 없음.DestructibleMesh' 오브젝트를 찾는 데 실패했습니다.
+[2024.04.30-17.46.38:207][762]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스 누락: ''PropertyEditor.AddColumnMessage.ColorAndOpacity' 컬러를 찾을 수 없습니다.'
+[2024.04.30-17.47.55:786][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.04.30-17.47.55:789][105]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMap' took 0.040
+[2024.04.30-17.47.55:791][105]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/BP_Creature] ([2] browsable assets)...
+[2024.04.30-17.47.55:791][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Creature]
+[2024.04.30-17.47.55:791][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Creature" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/BluePrint/BP_Creature_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.04.30-17.47.55:820][105]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrint/BP_Creature_Auto1
+[2024.04.30-17.47.55:822][105]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Creature_Auto1C858CD5540197E71EC64A08E39F0A9FB.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/BluePrint/BP_Creature_Auto1.uasset'
+[2024.04.30-17.47.55:823][105]LogFileHelpers: Auto-saving content packages took 0.034
+[2024.04.30-17.51.08:165][132]BlueprintLog: New page: WizetBP_HP 컴파일
+[2024.04.30-17.51.08:200][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.30-17.51.08:791][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/UI/WizetBP_HP" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/UI/WizetBP_HP.uasset" SILENT=true
+[2024.04.30-17.51.08:794][181]LogSavePackage: Moving output files for package: /Game/BluePrint/UI/WizetBP_HP
+[2024.04.30-17.51.08:795][181]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/WizetBP_HP3424B76547F7162AF306A8B2BFA29064.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/UI/WizetBP_HP.uasset'
+[2024.04.30-17.51.08:808][181]AssetCheck: New page: 에셋 저장:  WizetBP_HP
+[2024.04.30-17.51.08:808][181]LogContentValidation: Display: WidgetBlueprint /Game/BluePrint/UI/WizetBP_HP.WizetBP_HP 유효성 검사 중
+[2024.04.30-17.51.34:431][  6]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/BP_Knight.BP_Knight
+[2024.04.30-17.51.34:431][  6]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-17.51.35:209][ 41]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/BP_Monster.BP_Monster
+[2024.04.30-17.51.35:210][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-17.51.37:135][160]LogViewport: Scene viewport resized to 880x659, mode Windowed.
+[2024.04.30-17.51.38:838][328]LogViewport: Scene viewport resized to 880x659, mode Windowed.
+[2024.04.30-17.55.15:344][170]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.04.30-17.56.23:257][185]LogEditorTransaction: Undo 노드 추가
+[2024.04.30-17.57.53:073][194]LogEditorTransaction: Undo 컴포넌트 수정
+[2024.04.30-17.57.53:675][221]LogEditorTransaction: Undo 컴포넌트 수정
+[2024.04.30-17.57.54:344][284]LogEditorTransaction: Undo 컴포넌트 수정
+[2024.04.30-17.57.54:829][330]LogEditorTransaction: Undo 컴포넌트 수정
+[2024.04.30-17.59.20:938][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.04.30-17.59.20:940][844]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMap' took 0.053
+[2024.04.30-17.59.20:941][844]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/BP_Knight] ([2] browsable assets)...
+[2024.04.30-17.59.20:941][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Knight]
+[2024.04.30-17.59.20:941][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/BluePrint/BP_Knight_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.04.30-17.59.20:955][844]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrint/BP_Knight_Auto2
+[2024.04.30-17.59.20:955][844]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Knight_Auto2421E573F4464B4FA23B75E9BF2615081.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/BluePrint/BP_Knight_Auto2.uasset'
+[2024.04.30-17.59.20:956][844]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/BP_Creature] ([2] browsable assets)...
+[2024.04.30-17.59.20:956][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Creature]
+[2024.04.30-17.59.20:956][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Creature" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/BluePrint/BP_Creature_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.04.30-17.59.20:984][844]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrint/BP_Creature_Auto2
+[2024.04.30-17.59.20:985][844]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Creature_Auto2C43AAC88442B54071F430B996646C051.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/BluePrint/BP_Creature_Auto2.uasset'
+[2024.04.30-17.59.20:987][844]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/BP_Monster] ([2] browsable assets)...
+[2024.04.30-17.59.20:987][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Monster]
+[2024.04.30-17.59.20:987][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Monster" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/BluePrint/BP_Monster_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.04.30-17.59.20:992][844]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrint/BP_Monster_Auto2
+[2024.04.30-17.59.20:992][844]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Monster_Auto232F168EE4272430697FDFE86AA35BC40.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/BluePrint/BP_Monster_Auto2.uasset'
+[2024.04.30-17.59.20:992][844]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/UI/WizetBP_HP] ([2] browsable assets)...
+[2024.04.30-17.59.20:994][844]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BluePrint/UI/WizetBP_HP.WizetBP_HP]
+[2024.04.30-17.59.20:994][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/UI/WizetBP_HP]
+[2024.04.30-17.59.20:994][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/UI/WizetBP_HP" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/BluePrint/UI/WizetBP_HP_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.04.30-17.59.20:997][844]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrint/UI/WizetBP_HP_Auto2
+[2024.04.30-17.59.20:998][844]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/WizetBP_HP_Auto260A6556A4CECC286863E1C8111D43453.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/BluePrint/UI/WizetBP_HP_Auto2.uasset'
+[2024.04.30-17.59.20:998][844]LogFileHelpers: Auto-saving content packages took 0.058
+[2024.04.30-18.04.31:272][278]LogEditorTransaction: Undo 에디터 전용 여부 편집
+[2024.04.30-18.04.31:291][278]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.31:626][289]LogEditorTransaction: Undo 에디터 전용 여부 편집
+[2024.04.30-18.04.31:643][289]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.31:882][301]LogEditorTransaction: Undo 에디터 전용 여부 편집
+[2024.04.30-18.04.31:901][301]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.32:167][319]LogEditorTransaction: Undo 에디터 전용 여부 편집
+[2024.04.30-18.04.32:186][319]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.32:368][332]LogEditorTransaction: Undo 피직스 볼륨 업데이트 필요 편집
+[2024.04.30-18.04.32:387][332]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.32:572][344]LogEditorTransaction: Undo 피직스 볼륨 업데이트 필요 편집
+[2024.04.30-18.04.32:594][344]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.32:785][359]LogEditorTransaction: Undo 변수 카테고리 변경
+[2024.04.30-18.04.33:232][396]LogEditorTransaction: Undo 변수 카테고리 변경
+[2024.04.30-18.04.34:296][498]LogEditorTransaction: Undo 변수 카테고리 변경
+[2024.04.30-18.04.34:539][514]LogEditorTransaction: Undo 변수 카테고리 변경
+[2024.04.30-18.04.34:745][524]LogEditorTransaction: Undo 변수 카테고리 변경
+[2024.04.30-18.04.34:959][536]LogEditorTransaction: Undo 컴포넌트 수정
+[2024.04.30-18.04.35:872][628]LogEditorTransaction: Undo 컴포넌트 변수 이름변경
+[2024.04.30-18.04.35:900][628]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.36:307][667]LogEditorTransaction: Undo 컴포넌트 추가
+[2024.04.30-18.04.46:681][492]LogEditorTransaction: Undo 컴포넌트 제거
+[2024.04.30-18.04.47:026][500]LogEditorTransaction: Undo 상속 시 편집 가능 편집
+[2024.04.30-18.04.47:043][500]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.50:383][832]LogEditorTransaction: Undo 상속 시 편집 가능 편집
+[2024.04.30-18.04.50:401][832]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.51:252][889]LogEditorTransaction: Undo 변수 카테고리 변경
+[2024.04.30-18.04.51:618][920]LogEditorTransaction: Undo 변수 카테고리 변경
+[2024.04.30-18.04.52:124][963]LogEditorTransaction: Undo 표시 편집
+[2024.04.30-18.04.52:142][963]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.52:557][  0]LogEditorTransaction: Undo 표시 편집
+[2024.04.30-18.04.52:575][  0]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.52:975][ 35]LogEditorTransaction: Undo 자손 지우기
+[2024.04.30-18.04.52:993][ 35]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.53:305][ 64]LogEditorTransaction: Undo 자손 추가
+[2024.04.30-18.04.53:324][ 64]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.53:572][ 86]LogEditorTransaction: Undo 디테일 모드 편집
+[2024.04.30-18.04.53:590][ 86]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.53:829][106]LogEditorTransaction: Undo 디테일 모드 편집
+[2024.04.30-18.04.53:847][106]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.54:031][121]LogEditorTransaction: Undo 디테일 모드 편집
+[2024.04.30-18.04.54:050][121]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.54:234][136]LogEditorTransaction: Undo 디테일 모드 편집
+[2024.04.30-18.04.54:252][136]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.54:431][151]LogEditorTransaction: Undo 컴포넌트 변수 이름변경
+[2024.04.30-18.04.54:460][151]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.54:671][168]LogEditorTransaction: Undo 컴포넌트 추가
+[2024.04.30-18.04.55:541][261]LogEditorTransaction: Undo 퍼센트 편집
+[2024.04.30-18.04.55:859][292]LogEditorTransaction: Undo 컴포넌트 제거
+[2024.04.30-18.04.56:478][355]LogEditorTransaction: Undo 위젯 이름변경
+[2024.04.30-18.04.56:985][408]LogEditorTransaction: Undo 모빌리티 편집
+[2024.04.30-18.04.57:001][408]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.57:395][453]LogEditorTransaction: Undo 모빌리티 편집
+[2024.04.30-18.04.57:413][453]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.58:684][587]LogEditorTransaction: Undo 모빌리티 편집
+[2024.04.30-18.04.58:703][587]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.58:924][606]LogEditorTransaction: Undo 컴포넌트 변수 이름변경
+[2024.04.30-18.04.58:953][606]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.04.59:165][622]LogEditorTransaction: Undo 컴포넌트 추가
+[2024.04.30-18.04.59:456][645]LogEditorTransaction: Undo 컴포넌트 제거
+[2024.04.30-18.04.59:936][691]LogEditorTransaction: Undo 컴포넌트 제거
+[2024.04.30-18.05.00:322][724]LogEditorTransaction: Undo 컴포넌트 추가
+[2024.04.30-18.05.00:776][767]LogEditorTransaction: Undo 컴포넌트 추가
+[2024.04.30-18.05.01:436][835]LogEditorTransaction: Undo 컴포넌트 제거
+[2024.04.30-18.05.02:084][900]LogEditorTransaction: Undo 컴포넌트 추가
+[2024.04.30-18.05.02:701][963]LogEditorTransaction: Undo 컴포넌트 제거
+[2024.04.30-18.05.03:109][  0]LogEditorTransaction: Undo 컴포넌트 변수 이름변경
+[2024.04.30-18.05.03:136][  0]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_4:PersistentLevel.BP_Creature_C_0.Sprite0) Component already registered.
+[2024.04.30-18.05.03:488][ 36]LogEditorTransaction: Undo 컴포넌트 추가
+[2024.04.30-18.05.04:146][104]LogEditorTransaction: Undo 위젯 이름변경
+[2024.04.30-18.05.04:901][186]LogEditorTransaction: Undo 퍼센트 편집
+[2024.04.30-18.05.05:369][233]LogEditorTransaction: Undo 퍼센트 편집
+[2024.04.30-18.05.05:647][261]LogEditorTransaction: Undo 컬러 및 오파시티 채우기 편집
+[2024.04.30-18.05.05:889][282]LogEditorTransaction: Undo 컬러 및 오파시티 채우기 편집
+[2024.04.30-18.05.06:099][301]LogEditorTransaction: Undo 드래그 앤 드롭 위젯
+[2024.04.30-18.05.06:317][324]LogEditorTransaction: Undo 엘리먼트 클릭
+[2024.04.30-18.05.26:489][663]LogSlate: Window 'BP_Monster' being destroyed
+[2024.04.30-18.05.26:494][663]LogSlate: Window 'BP_Monster' being destroyed
+[2024.04.30-18.05.26:507][663]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-18.05.26:507][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-18.05.26:518][663]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-18.05.26:519][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-18.05.26:564][663]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-18.05.26:564][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-18.05.26:628][663]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.30-18.05.26:628][663]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-18.05.26:628][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-18.05.26:687][663]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.30-18.05.26:687][663]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-18.05.26:687][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-18.05.28:997][930]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/BP_Creature.BP_Creature
+[2024.04.30-18.05.28:997][930]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-18.05.33:548][402]LogViewport: Scene viewport resized to 880x659, mode Windowed.
+[2024.04.30-18.06.13:831][718]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.13:831][718]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.13:841][719]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.13:851][720]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.13:861][721]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.13:871][722]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.13:881][723]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.13:892][724]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.13:905][725]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.13:918][726]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.13:930][727]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.13:942][728]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.13:953][729]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.13:964][730]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.13:974][731]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.13:986][732]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.13:997][733]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:008][734]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:019][735]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:030][736]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:040][737]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:049][738]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:059][739]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:069][740]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:079][741]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:088][742]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:098][743]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:108][744]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:117][745]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:127][746]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:136][747]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:146][748]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:155][749]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:165][750]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:175][751]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:184][752]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:194][753]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:203][754]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:213][755]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:223][756]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:232][757]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:242][758]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:251][759]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:261][760]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:270][761]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:280][762]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:289][763]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:299][764]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:309][765]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:318][766]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:328][767]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:337][768]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:347][769]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:356][770]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:366][771]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:376][772]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:388][773]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:397][774]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:407][775]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:418][776]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:428][777]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:438][778]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:448][779]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:458][780]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:469][781]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.14:479][782]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.36:805][ 57]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.36:805][ 57]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.36:816][ 58]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.36:826][ 59]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.36:837][ 60]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.36:847][ 61]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.36:857][ 62]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.36:867][ 63]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.36:877][ 64]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.36:887][ 65]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.36:896][ 66]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.36:906][ 67]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.36:915][ 68]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.36:925][ 69]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.36:935][ 70]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.36:946][ 71]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.37:490][120]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.37:491][120]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.37:505][121]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.37:517][122]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.37:528][123]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.38:224][190]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.38:224][190]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.38:235][191]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.38:246][192]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.38:257][193]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.38:268][194]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.38:279][195]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.38:289][196]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.38:300][197]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.38:310][198]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:238][289]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:239][289]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:249][290]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:258][291]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:268][292]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:278][293]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:287][294]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:296][295]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:306][296]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:315][297]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:325][298]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:335][299]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:345][300]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:355][301]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:364][302]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:374][303]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:383][304]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:392][305]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:402][306]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:411][307]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:420][308]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:430][309]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:440][310]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:449][311]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:458][312]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:467][313]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:477][314]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:487][315]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:497][316]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:509][317]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:518][318]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:527][319]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:537][320]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:547][321]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:557][322]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:566][323]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:575][324]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:584][325]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:594][326]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:603][327]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:613][328]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:622][329]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:632][330]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:642][331]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:652][332]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:662][333]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:671][334]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:681][335]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:691][336]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:700][337]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:710][338]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:719][339]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:729][340]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:738][341]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:748][342]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:758][343]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:768][344]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:778][345]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:788][346]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:797][347]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:807][348]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:817][349]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:826][350]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:836][351]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:845][352]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:855][353]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:864][354]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:873][355]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:883][356]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:893][357]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:902][358]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:911][359]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:920][360]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:930][361]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:940][362]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:949][363]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:958][364]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:968][365]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:978][366]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:988][367]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.39:997][368]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.40:007][369]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.40:017][370]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.40:027][371]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.40:037][372]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:356][433]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:356][433]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:366][434]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:378][435]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:388][436]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:398][437]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:409][438]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:418][439]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:428][440]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:438][441]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:447][442]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:457][443]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:466][444]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:476][445]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:485][446]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:495][447]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:505][448]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:514][449]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:524][450]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:534][451]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:544][452]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:553][453]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:562][454]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:571][455]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:581][456]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:590][457]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:599][458]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:608][459]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:617][460]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:627][461]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:636][462]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:647][463]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:657][464]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:668][465]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:679][466]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:688][467]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:700][468]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:712][469]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.06.49:722][470]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HPBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.07.00:856][942]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BluePrint/UI/WizetBP_HP.WizetBP_HP
+[2024.04.30-18.07.00:857][942]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-18.07.00:862][942]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.30-18.07.01:106][942]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2024.04.30-18.07.01:106][942]LogSlateStyle: Warning: 'None' 슬레이트 위젯 스타일을 찾을 수 없습니다. 대신 FToolbarStyle 디폴트를 사용합니다.
+[2024.04.30-18.08.11:310][305]LogSlate: Window '색 선택 툴' being destroyed
+[2024.04.30-18.08.20:857][323]BlueprintLog: New page: WizetBP_HP 컴파일
+[2024.04.30-18.08.21:011][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.04.30-18.08.21:479][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/UI/WizetBP_HP" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/UI/WizetBP_HP.uasset" SILENT=true
+[2024.04.30-18.08.21:482][364]LogSavePackage: Moving output files for package: /Game/BluePrint/UI/WizetBP_HP
+[2024.04.30-18.08.21:483][364]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/WizetBP_HPD7ADAB334D6A85AF0F9CBE80753CD120.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Content/BluePrint/UI/WizetBP_HP.uasset'
+[2024.04.30-18.08.21:494][364]AssetCheck: New page: 에셋 저장:  WizetBP_HP
+[2024.04.30-18.08.21:494][364]LogContentValidation: Display: WidgetBlueprint /Game/BluePrint/UI/WizetBP_HP.WizetBP_HP 유효성 검사 중
+[2024.04.30-18.08.23:035][517]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.04.30-18.09.25:166][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.04.30-18.09.25:173][416]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMap' took 0.055
+[2024.04.30-18.09.25:174][416]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/BP_Knight] ([2] browsable assets)...
+[2024.04.30-18.09.25:174][416]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Knight]
+[2024.04.30-18.09.25:174][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Knight" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/BluePrint/BP_Knight_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.04.30-18.09.25:190][416]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrint/BP_Knight_Auto3
+[2024.04.30-18.09.25:192][416]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Knight_Auto3D6A81C1640C30C436DCFED92B797A1E3.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/BluePrint/BP_Knight_Auto3.uasset'
+[2024.04.30-18.09.25:194][416]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/BP_Creature] ([2] browsable assets)...
+[2024.04.30-18.09.25:194][416]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Creature]
+[2024.04.30-18.09.25:194][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Creature" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/BluePrint/BP_Creature_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.04.30-18.09.25:221][416]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrint/BP_Creature_Auto3
+[2024.04.30-18.09.25:222][416]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Creature_Auto318D94CE94A923C72F88AF0B5A7B8C5A4.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/BluePrint/BP_Creature_Auto3.uasset'
+[2024.04.30-18.09.25:224][416]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/BP_Monster] ([2] browsable assets)...
+[2024.04.30-18.09.25:224][416]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_Monster]
+[2024.04.30-18.09.25:224][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Monster" FILE="../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/BluePrint/BP_Monster_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.04.30-18.09.25:229][416]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrint/BP_Monster_Auto3
+[2024.04.30-18.09.25:230][416]LogSavePackage: Moving '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/BP_Monster_Auto38F7CAF554F0576574D2506AC6A5BBFA4.tmp' to '../../../../../../UnrealProject/UE5/UE5_2D_A/Saved/Autosaves/Game/BluePrint/BP_Monster_Auto3.uasset'
+[2024.04.30-18.09.25:231][416]LogFileHelpers: Auto-saving content packages took 0.058
+[2024.04.30-18.09.58:764][980]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:764][980]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:775][981]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:787][982]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:798][983]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:809][984]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:819][985]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:830][986]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:841][987]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:851][988]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:862][989]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:873][990]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:884][991]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:894][992]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:904][993]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:914][994]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:923][995]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:933][996]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:943][997]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:952][998]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:962][999]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:971][  0]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:981][  1]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.58:993][  2]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.59:003][  3]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.59:013][  4]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.59:024][  5]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.59:034][  6]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.59:044][  7]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.59:054][  8]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.59:064][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.09.59:074][ 10]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:126][466]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:126][466]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:138][467]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:148][468]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:158][469]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:167][470]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:177][471]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:186][472]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:196][473]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:206][474]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:216][475]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:226][476]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:235][477]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:246][478]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:256][479]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:266][480]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:276][481]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:286][482]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:295][483]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:305][484]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:315][485]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:325][486]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:334][487]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:345][488]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:354][489]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:364][490]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:374][491]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:384][492]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:394][493]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:404][494]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:413][495]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:424][496]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:434][497]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:444][498]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:453][499]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:463][500]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:472][501]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:482][502]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:492][503]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:502][504]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:511][505]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:521][506]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:531][507]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:540][508]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:550][509]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:559][510]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:569][511]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:580][512]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:589][513]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:599][514]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:608][515]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:618][516]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:627][517]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:637][518]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:647][519]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:657][520]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:667][521]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:678][522]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:689][523]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:703][524]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:714][525]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:725][526]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:735][527]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:744][528]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:754][529]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:764][530]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:774][531]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:784][532]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:794][533]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:805][534]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:814][535]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:824][536]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:833][537]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:843][538]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:853][539]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:863][540]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:872][541]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:882][542]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:892][543]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.10.31:902][544]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_Creature_C_0.HpBar has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2024.04.30-18.12.49:453][342]BlueprintLog: New page: BP_Creature 컴파일
