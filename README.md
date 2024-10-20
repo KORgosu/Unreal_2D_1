@@ -12,12 +12,14 @@ UNREAL(BP) PROJECT
 
 
 
-[참고 자료]
+[수료증]
 
 ![image](https://github.com/user-attachments/assets/dad50526-b4db-4fd6-8b46-1354fd2efd18)
 
 
-[https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC5-%EA%B0%9C%EB%B0%9C%EC%9D%98%EC%A0%95%EC%84%9D-2]
+[참고자료]
+
+(https://inf.run/yS5u)
 
 
 
